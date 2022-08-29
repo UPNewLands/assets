@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'Arial';
+    src: url('../fonts/Arial.woff2');
+}
+
+@font-face {
+    font-family: 'Arial';
+    font-weight: bold;
+    src: url('../fonts/Arial Bold.woff2');
+}
+
+@font-face {
+    font-family: 'Arial Narrow';
+    src: url('../fonts/Arial Narrow.woff2');
+}
+
+@font-face {
+    font-family: 'Arial Narrow';
+    font-weight: bold;
+    src: url('../fonts/Arial Narrow Bold.woff2');
+}
+
+@font-face {
+    font-family: 'Asterisk';
+    src: url('../fonts/Asterisk.woff2');
+}
+
+@font-face {
+    font-family: 'Burbank Small';
+    src: url('../fonts/Burbank Small Medium.woff2');
+}
+
+@font-face {
+    font-family: 'Burbank Small';
+    font-weight: bold;
+    src: url('../fonts/Burbank Small Bold.woff2');
+}
+
+@font-face {
+    font-family: 'CCComiccrazy';
+    src: url('../fonts/CCComicrazy-Roman.woff2');
+}
+
+@font-face {
+    font-family: 'CCFaceFront';
+    font-style: italic;
+    font-weight: bold;
+    src: url('../fonts/CCFaceFront Bold Italic.woff2');
+}
+
+@font-face {
+    font-family: 'Myriadpro Bold';
+    font-weight: bold;
+    src: url('../fonts/MYRIADPRO-BOLD.woff2');
+}
+
+@font-face {
+    font-family: 'Myriadpro Boldcond';
+    src: url('../fonts/MYRIADPRO-BOLDCOND.woff2');
+}
+
+@font-face {
+    font-family: 'Myriadpro Boldcondit';
+    src: url('../fonts/MYRIADPRO-BOLDCONDIT.woff2');
+}
+
+@font-face {
+    font-family: 'Myriadpro Boldit';
+    src: url('../fonts/MYRIADPRO-BOLDIT.woff2');
+}
+
+@font-face {
+    font-family: 'Myriadpro Cond';
+    src: url('../fonts/MYRIADPRO-COND.woff2');
+}
+
+@font-face {
+    font-family: 'Myriadpro Condit';
+    src: url('../fonts/MYRIADPRO-CONDIT.woff2');
+}
+
+@font-face {
+    font-family: 'Myriadpro Light';
+    src: url('../fonts/MYRIADPRO-LIGHT.woff2');
+}
+
+@font-face {
+    font-family: 'Myriadpro Regular';
+    src: url('../fonts/MYRIADPRO-REGULAR.otf');
+}
+
+@font-face {
+    font-family: 'Myriadpro Semibold';
+    src: url('../fonts/MYRIADPRO-SEMIBOLD.woff2');
+}
+
+@font-face {
+    font-family: 'Myriadpro Semiboldit';
+    src: url('../fonts/MYRIADPRO-SEMIBOLDIT.woff2');
+}

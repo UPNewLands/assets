@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "pg-interface-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1998
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1030
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1030
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1030
+					}
+				},
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1524,
+						"h": 964
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1524,
+						"h": 964
+					},
+					"frame": {
+						"x": 1,
+						"y": 1033,
+						"w": 1524,
+						"h": 964
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8628cacda2c4757e67047d59ee96357e:95df498b6364f266378a1531260fe207:ebe468aecde7bedabaa7f11c505057a3$"
+	}
+}

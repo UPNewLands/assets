@@ -1,0 +1,227 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/chatbar.json",
+                "path": "assets/media/interface/game/main",
+                "key": "chatbar"
+            },
+            {
+                "url": "assets/media/interface/game/main/chatlogs.png",
+                "type": "image",
+                "key": "chatlogs"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/coins.json",
+                "path": "assets/media/interface/game/main",
+                "key": "coins"
+            },
+            {
+                "url": "assets/media/crumbs/en/crumbs.json",
+                "type": "json",
+                "key": "crumbs"
+            },
+            {
+                "url": "assets/media/interface/game/main/downarrow.png",
+                "type": "image",
+                "key": "downarrow"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/elevator/elevator.json",
+                "path": "assets/media/interface/game/elevator",
+                "key": "elevator"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/endscreens.json",
+                "path": "assets/media/interface/game/main",
+                "key": "endscreens"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/four/four.json",
+                "path": "assets/media/games/four",
+                "key": "four"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/friends.json",
+                "path": "assets/media/interface/game/main",
+                "key": "friends"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/icons.json",
+                "path": "assets/media/interface/game/main",
+                "key": "icons"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/iglooedit/iglooedit.json",
+                "path": "assets/media/interface/game/iglooedit/",
+                "key": "iglooedit"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/items.json",
+                "path": "assets/media/interface/game/main",
+                "key": "items"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/login/login.json",
+                "path": "assets/media/interface/menus/login/",
+                "key": "login"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/main.json",
+                "path": "assets/media/interface/game/main/",
+                "key": "main"
+            },
+            {
+                "url": "assets/media/interface/game/main/main-anims.json",
+                "type": "animation",
+                "key": "main-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/map/map.json",
+                "path": "assets/media/interface/game/map",
+                "key": "map"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/map/map-for-igloo.json",
+                "path": "assets/media/interface/game/map",
+                "key": "map-for-igloo"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/map/map-new.json",
+                "path": "assets/media/interface/game/map",
+                "key": "map-new"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/message.json",
+                "path": "assets/media/interface/game/main",
+                "key": "message"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/penguin.json",
+                "path": "assets/media/penguin/",
+                "key": "penguin"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/penguin_base.json",
+                "path": "assets/media/penguin/",
+                "key": "penguin_base"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/penguin_body.json",
+                "path": "assets/media/penguin/",
+                "key": "penguin_body"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/penguingames/pg-interface.json",
+                "path": "assets/media/interface/game/penguingames",
+                "key": "pg-interface"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/playercard.json",
+                "path": "assets/media/interface/game/main",
+                "key": "playercard"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/windows/prompt/prompt.json",
+                "path": "assets/media/interface/windows/prompt/",
+                "key": "prompt"
+            },
+            {
+                "url": "assets/media/puffles/puffle-black-anims.json",
+                "type": "animation",
+                "key": "puffle-black-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-blue-anims.json",
+                "type": "animation",
+                "key": "puffle-blue-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-brown-anims.json",
+                "type": "animation",
+                "key": "puffle-brown-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-green-anims.json",
+                "type": "animation",
+                "key": "puffle-green-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-orange-anims.json",
+                "type": "animation",
+                "key": "puffle-orange-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-pink-anims.json",
+                "type": "animation",
+                "key": "puffle-pink-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-purple-anims.json",
+                "type": "animation",
+                "key": "puffle-purple-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-red-anims.json",
+                "type": "animation",
+                "key": "puffle-red-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-white-anims.json",
+                "type": "animation",
+                "key": "puffle-white-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-yellow-anims.json",
+                "type": "animation",
+                "key": "puffle-yellow-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/pufflePopup.json",
+                "path": "assets/media/interface/game/main",
+                "key": "pufflePopup"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/servers/servers.json",
+                "path": "assets/media/interface/menus/servers/",
+                "key": "servers"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/start/start.json",
+                "path": "assets/media/interface/menus/start/",
+                "key": "start"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": true
+    }
+}

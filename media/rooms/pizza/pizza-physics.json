@@ -1,0 +1,84 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"block": {
+		"type": "fromPhysicsEditor",
+		"label": "block",
+		"isStatic": true,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":247, "y":960 }, { "x":161, "y":786 }, { "x":0, "y":786 }, { "x":0, "y":960 } ]
+				]
+			},
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1520, "y":507 }, { "x":1520, "y":0 }, { "x":1205, "y":301 } ],
+					[ { "x":1520, "y":0 }, { "x":0, "y":0 }, { "x":279, "y":300 }, { "x":1205, "y":301 } ],
+					[ { "x":0, "y":0 }, { "x":0, "y":550 }, { "x":27, "y":548 }, { "x":63, "y":539 }, { "x":84, "y":530 }, { "x":110, "y":510 }, { "x":279, "y":300 } ]
+				]
+			}
+		]
+	},
+	"pizzatron": {
+		"type": "fromPhysicsEditor",
+		"label": "pizzatron",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":290, "y":342 }, { "x":460, "y":342 }, { "x":460, "y":302 }, { "x":290, "y":302 } ]
+				]
+			}
+		]
+	},
+	"plaza": {
+		"type": "fromPhysicsEditor",
+		"label": "plaza",
+		"isStatic": true,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":576, "y":341 }, { "x":896, "y":341 }, { "x":896, "y":301 }, { "x":576, "y":301 } ]
+				]
+			}
+		]
+	}
+}
