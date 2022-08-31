@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "sprites/white-0.png",
+			"image": "white-0.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2048,
@@ -7068,7 +7068,7 @@
 			]
 		},
 		{
-			"image": "sprites/white-1.png",
+			"image": "white-1.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2048,
@@ -22703,7 +22703,7 @@
 			]
 		},
 		{
-			"image": "sprites/white-2.png",
+			"image": "white-2.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 1014,

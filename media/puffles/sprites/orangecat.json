@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "sprites/orangecat-0.png",
+			"image": "orangecat-0.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2048,
@@ -15006,7 +15006,7 @@
 			]
 		},
 		{
-			"image": "sprites/orangecat-1.png",
+			"image": "orangecat-1.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 1009,

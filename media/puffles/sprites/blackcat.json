@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "sprites/blackcat-0.png",
+			"image": "blackcat-0.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2045,
@@ -15006,7 +15006,7 @@
 			]
 		},
 		{
-			"image": "sprites/blackcat-1.png",
+			"image": "blackcat-1.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 1024,

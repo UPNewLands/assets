@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "sprites/yellow-0.png",
+			"image": "yellow-0.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2033,
@@ -6522,7 +6522,7 @@
 			]
 		},
 		{
-			"image": "sprites/yellow-1.png",
+			"image": "yellow-1.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2048,
@@ -20918,7 +20918,7 @@
 			]
 		},
 		{
-			"image": "sprites/yellow-2.png",
+			"image": "yellow-2.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2024,
@@ -38800,7 +38800,7 @@
 			]
 		},
 		{
-			"image": "sprites/yellow-3.png",
+			"image": "yellow-3.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2036,
@@ -45678,7 +45678,7 @@
 			]
 		},
 		{
-			"image": "sprites/yellow-4.png",
+			"image": "yellow-4.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 990,

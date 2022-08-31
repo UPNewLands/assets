@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "sprites/bluedog-0.png",
+			"image": "bluedog-0.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2001,

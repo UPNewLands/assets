@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "sprites/green-0.png",
+			"image": "green-0.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2027,
@@ -9336,7 +9336,7 @@
 			]
 		},
 		{
-			"image": "sprites/green-1.png",
+			"image": "green-1.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2046,
@@ -26483,7 +26483,7 @@
 			]
 		},
 		{
-			"image": "sprites/green-2.png",
+			"image": "green-2.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 1016,

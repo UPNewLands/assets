@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "sprites/red-0.png",
+			"image": "red-0.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2048,
@@ -4611,7 +4611,7 @@
 			]
 		},
 		{
-			"image": "sprites/red-1.png",
+			"image": "red-1.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2048,
@@ -10334,7 +10334,7 @@
 			]
 		},
 		{
-			"image": "sprites/red-2.png",
+			"image": "red-2.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2048,
@@ -14377,7 +14377,7 @@
 			]
 		},
 		{
-			"image": "sprites/red-3.png",
+			"image": "red-3.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2046,

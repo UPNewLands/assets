@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "sprites/pink-0.png",
+			"image": "pink-0.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2038,
@@ -12045,7 +12045,7 @@
 			]
 		},
 		{
-			"image": "sprites/pink-1.png",
+			"image": "pink-1.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2048,
@@ -26693,7 +26693,7 @@
 			]
 		},
 		{
-			"image": "sprites/pink-2.png",
+			"image": "pink-2.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 1923,

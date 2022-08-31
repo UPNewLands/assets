@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "sprites/orange-0.png",
+			"image": "orange-0.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 1988,
@@ -19500,7 +19500,7 @@
 			]
 		},
 		{
-			"image": "sprites/orange-1.png",
+			"image": "orange-1.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 1969,
