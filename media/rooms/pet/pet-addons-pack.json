@@ -3,14 +3,9 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/forest/forest.json",
-                "path": "assets/media/rooms/forest",
-                "key": "forest"
-            },
-            {
-                "url": "assets/media/rooms/forest/forest-physics.json",
-                "type": "json",
-                "key": "forest-physics"
+                "url": "assets/media/rooms/pet/pet-addos.json",
+                "path": "assets/media/rooms/pet",
+                "key": "pet-addos"
             }
         ]
     },

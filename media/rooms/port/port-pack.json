@@ -3,14 +3,14 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/forest/forest.json",
-                "path": "assets/media/rooms/forest",
-                "key": "forest"
+                "url": "assets/media/rooms/port/port.json",
+                "path": "assets/media/rooms/port",
+                "key": "port"
             },
             {
-                "url": "assets/media/rooms/forest/forest-physics.json",
+                "url": "assets/media/rooms/port/port-physics.json",
                 "type": "json",
-                "key": "forest-physics"
+                "key": "port-physics"
             }
         ]
     },

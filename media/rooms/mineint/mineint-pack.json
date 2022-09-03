@@ -3,14 +3,14 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/forest/forest.json",
-                "path": "assets/media/rooms/forest",
-                "key": "forest"
+                "url": "assets/media/rooms/mineint/mineint.json",
+                "path": "assets/media/rooms/mineint",
+                "key": "mineint"
             },
             {
-                "url": "assets/media/rooms/forest/forest-physics.json",
+                "url": "assets/media/rooms/mineint/mineint-physics.json",
                 "type": "json",
-                "key": "forest-physics"
+                "key": "mineint-physics"
             }
         ]
     },

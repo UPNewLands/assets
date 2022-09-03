@@ -3,14 +3,14 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/forest/forest.json",
-                "path": "assets/media/rooms/forest",
-                "key": "forest"
+                "url": "assets/media/rooms/hidden/hidden.json",
+                "path": "assets/media/rooms/hidden",
+                "key": "hidden"
             },
             {
-                "url": "assets/media/rooms/forest/forest-physics.json",
+                "url": "assets/media/rooms/hidden/hiddenlake-physics.json",
                 "type": "json",
-                "key": "forest-physics"
+                "key": "hiddenlake-physics"
             }
         ]
     },

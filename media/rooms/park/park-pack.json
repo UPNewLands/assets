@@ -3,14 +3,14 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/forest/forest.json",
-                "path": "assets/media/rooms/forest",
-                "key": "forest"
+                "url": "assets/media/rooms/park/park.json",
+                "path": "assets/media/rooms/park",
+                "key": "park"
             },
             {
-                "url": "assets/media/rooms/forest/forest-physics.json",
+                "url": "assets/media/rooms/park/park-physics.json",
                 "type": "json",
-                "key": "forest-physics"
+                "key": "park-physics"
             }
         ]
     },
