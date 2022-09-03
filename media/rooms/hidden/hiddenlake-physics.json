@@ -103,5 +103,29 @@
 				]
 			}
 		]
+	},
+	"cave": {
+		"type": "fromPhysicsEditor",
+		"label": "cave",
+		"isStatic": true,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":964, "y":443 }, { "x":1033, "y":510 }, { "x":1122, "y":445 }, { "x":1041, "y":420 } ]
+				]
+			}
+		]
 	}
 }

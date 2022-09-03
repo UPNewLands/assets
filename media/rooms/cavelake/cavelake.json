@@ -1,0 +1,871 @@
+{
+	"textures": [
+		{
+			"image": "cavelake-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2033,
+				"h": 1964
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Symbol_149",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1515,
+						"h": 962
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1515,
+						"h": 962
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1515,
+						"h": 962
+					}
+				},
+				{
+					"filename": "Símbolo 37",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1439,
+						"h": 647
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1439,
+						"h": 647
+					},
+					"frame": {
+						"x": 1,
+						"y": 965,
+						"w": 1439,
+						"h": 647
+					}
+				},
+				{
+					"filename": "Symbol 11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1471,
+						"h": 378
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1471,
+						"h": 311
+					},
+					"frame": {
+						"x": 1,
+						"y": 1614,
+						"w": 1471,
+						"h": 311
+					}
+				},
+				{
+					"filename": "Símbolo 50",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 223,
+						"h": 425
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 223,
+						"h": 425
+					},
+					"frame": {
+						"x": 1518,
+						"y": 1,
+						"w": 223,
+						"h": 425
+					}
+				},
+				{
+					"filename": "Símbolo 53",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 289,
+						"h": 277
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 289,
+						"h": 277
+					},
+					"frame": {
+						"x": 1743,
+						"y": 1,
+						"w": 289,
+						"h": 277
+					}
+				},
+				{
+					"filename": "Symbol 7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 290,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 290,
+						"h": 294
+					},
+					"frame": {
+						"x": 1518,
+						"y": 428,
+						"w": 290,
+						"h": 294
+					}
+				},
+				{
+					"filename": "Símbolo 52",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 394,
+						"h": 186
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 394,
+						"h": 186
+					},
+					"frame": {
+						"x": 1518,
+						"y": 724,
+						"w": 394,
+						"h": 186
+					}
+				},
+				{
+					"filename": "Symbol 13",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 179
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 179
+					},
+					"frame": {
+						"x": 1518,
+						"y": 912,
+						"w": 373,
+						"h": 179
+					}
+				},
+				{
+					"filename": "Símbolo 47",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 526,
+						"h": 749
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 526,
+						"h": 749
+					},
+					"frame": {
+						"x": 1474,
+						"y": 1093,
+						"w": 526,
+						"h": 749
+					}
+				},
+				{
+					"filename": "Symbol 14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 179,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 179,
+						"h": 273
+					},
+					"frame": {
+						"x": 1810,
+						"y": 280,
+						"w": 179,
+						"h": 273
+					}
+				},
+				{
+					"filename": "Símbolo 51",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 110
+					},
+					"frame": {
+						"x": 1810,
+						"y": 555,
+						"w": 150,
+						"h": 110
+					}
+				},
+				{
+					"filename": "water20007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 176,
+						"h": 61
+					},
+					"frame": {
+						"x": 1474,
+						"y": 1844,
+						"w": 176,
+						"h": 61
+					}
+				},
+				{
+					"filename": "water20008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 176,
+						"h": 61
+					},
+					"frame": {
+						"x": 1474,
+						"y": 1844,
+						"w": 176,
+						"h": 61
+					}
+				},
+				{
+					"filename": "water20005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 173,
+						"h": 60
+					},
+					"frame": {
+						"x": 1652,
+						"y": 1844,
+						"w": 173,
+						"h": 60
+					}
+				},
+				{
+					"filename": "water20006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 173,
+						"h": 60
+					},
+					"frame": {
+						"x": 1652,
+						"y": 1844,
+						"w": 173,
+						"h": 60
+					}
+				},
+				{
+					"filename": "water20003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 168,
+						"h": 57
+					},
+					"frame": {
+						"x": 1652,
+						"y": 1906,
+						"w": 168,
+						"h": 57
+					}
+				},
+				{
+					"filename": "water20004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 168,
+						"h": 57
+					},
+					"frame": {
+						"x": 1652,
+						"y": 1906,
+						"w": 168,
+						"h": 57
+					}
+				},
+				{
+					"filename": "water20009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 171,
+						"h": 63
+					},
+					"frame": {
+						"x": 1827,
+						"y": 1844,
+						"w": 171,
+						"h": 63
+					}
+				},
+				{
+					"filename": "water20010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 171,
+						"h": 63
+					},
+					"frame": {
+						"x": 1827,
+						"y": 1844,
+						"w": 171,
+						"h": 63
+					}
+				},
+				{
+					"filename": "water20001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 164,
+						"h": 54
+					},
+					"frame": {
+						"x": 1822,
+						"y": 1909,
+						"w": 164,
+						"h": 54
+					}
+				},
+				{
+					"filename": "water20002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 164,
+						"h": 54
+					},
+					"frame": {
+						"x": 1822,
+						"y": 1909,
+						"w": 164,
+						"h": 54
+					}
+				},
+				{
+					"filename": "water20011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 11,
+						"w": 159,
+						"h": 50
+					},
+					"frame": {
+						"x": 1810,
+						"y": 667,
+						"w": 159,
+						"h": 50
+					}
+				},
+				{
+					"filename": "water20012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 11,
+						"w": 159,
+						"h": 50
+					},
+					"frame": {
+						"x": 1810,
+						"y": 667,
+						"w": 159,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Símbolo 39",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 90
+					},
+					"frame": {
+						"x": 1914,
+						"y": 719,
+						"w": 88,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Symbol 10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 61,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 78
+					},
+					"frame": {
+						"x": 1442,
+						"y": 965,
+						"w": 61,
+						"h": 78
+					}
+				},
+				{
+					"filename": "water10001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 1927,
+						"w": 73,
+						"h": 23
+					}
+				},
+				{
+					"filename": "water10002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 1927,
+						"w": 73,
+						"h": 23
+					}
+				},
+				{
+					"filename": "water10003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 23
+					},
+					"frame": {
+						"x": 1914,
+						"y": 811,
+						"w": 73,
+						"h": 23
+					}
+				},
+				{
+					"filename": "water10004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 23
+					},
+					"frame": {
+						"x": 1914,
+						"y": 811,
+						"w": 73,
+						"h": 23
+					}
+				},
+				{
+					"filename": "water10005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 23
+					},
+					"frame": {
+						"x": 76,
+						"y": 1927,
+						"w": 73,
+						"h": 23
+					}
+				},
+				{
+					"filename": "water10006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 23
+					},
+					"frame": {
+						"x": 76,
+						"y": 1927,
+						"w": 73,
+						"h": 23
+					}
+				},
+				{
+					"filename": "Símbolo 54",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 37,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 37,
+						"h": 26
+					},
+					"frame": {
+						"x": 1743,
+						"y": 280,
+						"w": 37,
+						"h": 26
+					}
+				},
+				{
+					"filename": "shape 58",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 27,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 27,
+						"h": 29
+					},
+					"frame": {
+						"x": 1962,
+						"y": 555,
+						"w": 27,
+						"h": 29
+					}
+				}
+			]
+		},
+		{
+			"image": "cavelake-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1800,
+				"h": 1478
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Símbolo 49",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1168,
+						"h": 509
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1168,
+						"h": 509
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1168,
+						"h": 509
+					}
+				},
+				{
+					"filename": "Símbolo 35",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 628,
+						"h": 575
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 628,
+						"h": 575
+					},
+					"frame": {
+						"x": 1171,
+						"y": 1,
+						"w": 628,
+						"h": 575
+					}
+				},
+				{
+					"filename": "Símbolo 18",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 807,
+						"h": 965
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 807,
+						"h": 965
+					},
+					"frame": {
+						"x": 1,
+						"y": 512,
+						"w": 807,
+						"h": 965
+					}
+				},
+				{
+					"filename": "Símbolo 11",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 677,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 677,
+						"h": 600
+					},
+					"frame": {
+						"x": 810,
+						"y": 578,
+						"w": 677,
+						"h": 600
+					}
+				},
+				{
+					"filename": "Símbolo 36",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 87,
+						"h": 361
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 87,
+						"h": 361
+					},
+					"frame": {
+						"x": 1489,
+						"y": 578,
+						"w": 87,
+						"h": 361
+					}
+				},
+				{
+					"filename": "Símbolo 34",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 232,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 232,
+						"h": 183
+					},
+					"frame": {
+						"x": 1489,
+						"y": 941,
+						"w": 232,
+						"h": 183
+					}
+				},
+				{
+					"filename": "Símbolo 38",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 357,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 357,
+						"h": 223
+					},
+					"frame": {
+						"x": 810,
+						"y": 1180,
+						"w": 357,
+						"h": 223
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1cbc824b0339b7fe3c207d41f86f60ea:48ddeb50485a5b3f4fcada9a96321fdb:0b16ad8f000bb4e991bcd8e79ce4c4df$"
+	}
+}

@@ -3,6 +3,12 @@
         "files": [
             {
                 "type": "multiatlas",
+                "url": "assets/media/popups/cavelake/cavepopup.json",
+                "path": "assets/media/popups/cavelake",
+                "key": "cavepopup"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/interface/game/main/chatbar.json",
                 "path": "assets/media/interface/game/main",
                 "key": "chatbar"
