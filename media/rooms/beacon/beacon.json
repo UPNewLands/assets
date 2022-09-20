@@ -1,0 +1,902 @@
+{
+	"textures": [
+		{
+			"image": "beacon.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3998,
+				"h": 2367
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2788,
+						"h": 1243
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2788,
+						"h": 1243
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 2788,
+						"h": 1243
+					}
+				},
+				{
+					"filename": "lights",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2280,
+						"h": 1120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2280,
+						"h": 1120
+					},
+					"frame": {
+						"x": 1,
+						"y": 1246,
+						"w": 2280,
+						"h": 1120
+					}
+				},
+				{
+					"filename": "Símbolo 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1487,
+						"h": 712
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1487,
+						"h": 712
+					},
+					"frame": {
+						"x": 2283,
+						"y": 1246,
+						"w": 1487,
+						"h": 712
+					}
+				},
+				{
+					"filename": "lightsoff",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2280,
+						"h": 1120
+					},
+					"spriteSourceSize": {
+						"x": 476,
+						"y": 795,
+						"w": 1320,
+						"h": 325
+					},
+					"frame": {
+						"x": 2283,
+						"y": 1960,
+						"w": 1320,
+						"h": 325
+					}
+				},
+				{
+					"filename": "jetpack-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 205
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 205
+					},
+					"frame": {
+						"x": 3605,
+						"y": 1960,
+						"w": 300,
+						"h": 205
+					}
+				},
+				{
+					"filename": "jetpack-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 205
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 205
+					},
+					"frame": {
+						"x": 3605,
+						"y": 1960,
+						"w": 300,
+						"h": 205
+					}
+				},
+				{
+					"filename": "jetpack",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 205
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 34,
+						"w": 300,
+						"h": 171
+					},
+					"frame": {
+						"x": 3605,
+						"y": 2167,
+						"w": 300,
+						"h": 171
+					}
+				},
+				{
+					"filename": "Symbol 299",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 654,
+						"h": 520
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 654,
+						"h": 520
+					},
+					"frame": {
+						"x": 2791,
+						"y": 1,
+						"w": 654,
+						"h": 520
+					}
+				},
+				{
+					"filename": "Symbol 301",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 755,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 755,
+						"h": 252
+					},
+					"frame": {
+						"x": 2791,
+						"y": 523,
+						"w": 755,
+						"h": 252
+					}
+				},
+				{
+					"filename": "monocular",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 187
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 187
+					},
+					"frame": {
+						"x": 3447,
+						"y": 1,
+						"w": 174,
+						"h": 187
+					}
+				},
+				{
+					"filename": "Símbolo 4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 199
+					},
+					"frame": {
+						"x": 3447,
+						"y": 190,
+						"w": 144,
+						"h": 199
+					}
+				},
+				{
+					"filename": "fareoff",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 602,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 602,
+						"h": 403
+					},
+					"frame": {
+						"x": 2791,
+						"y": 777,
+						"w": 602,
+						"h": 403
+					}
+				},
+				{
+					"filename": "fareon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 602,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 602,
+						"h": 403
+					},
+					"frame": {
+						"x": 3395,
+						"y": 777,
+						"w": 602,
+						"h": 403
+					}
+				},
+				{
+					"filename": "switch0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 107,
+						"h": 142
+					},
+					"frame": {
+						"x": 3548,
+						"y": 391,
+						"w": 107,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 107,
+						"h": 142
+					},
+					"frame": {
+						"x": 3623,
+						"y": 1,
+						"w": 107,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 96,
+						"h": 142
+					},
+					"frame": {
+						"x": 3623,
+						"y": 145,
+						"w": 96,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 160
+					},
+					"frame": {
+						"x": 3657,
+						"y": 289,
+						"w": 82,
+						"h": 160
+					}
+				},
+				{
+					"filename": "switch0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 160
+					},
+					"frame": {
+						"x": 3657,
+						"y": 289,
+						"w": 82,
+						"h": 160
+					}
+				},
+				{
+					"filename": "switch0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 160
+					},
+					"frame": {
+						"x": 3657,
+						"y": 289,
+						"w": 82,
+						"h": 160
+					}
+				},
+				{
+					"filename": "switch0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 160
+					},
+					"frame": {
+						"x": 3657,
+						"y": 289,
+						"w": 82,
+						"h": 160
+					}
+				},
+				{
+					"filename": "switch0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 160
+					},
+					"frame": {
+						"x": 3657,
+						"y": 289,
+						"w": 82,
+						"h": 160
+					}
+				},
+				{
+					"filename": "switch0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 160
+					},
+					"frame": {
+						"x": 3657,
+						"y": 289,
+						"w": 82,
+						"h": 160
+					}
+				},
+				{
+					"filename": "switch0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 160
+					},
+					"frame": {
+						"x": 3657,
+						"y": 289,
+						"w": 82,
+						"h": 160
+					}
+				},
+				{
+					"filename": "switch0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 96,
+						"h": 142
+					},
+					"frame": {
+						"x": 3732,
+						"y": 1,
+						"w": 96,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 89,
+						"h": 142
+					},
+					"frame": {
+						"x": 3721,
+						"y": 145,
+						"w": 89,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 89,
+						"h": 142
+					},
+					"frame": {
+						"x": 3657,
+						"y": 451,
+						"w": 89,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 160
+					},
+					"frame": {
+						"x": 3548,
+						"y": 535,
+						"w": 82,
+						"h": 160
+					}
+				},
+				{
+					"filename": "switch0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 160
+					},
+					"frame": {
+						"x": 3741,
+						"y": 289,
+						"w": 82,
+						"h": 160
+					}
+				},
+				{
+					"filename": "switch0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 82,
+						"h": 142
+					},
+					"frame": {
+						"x": 3812,
+						"y": 145,
+						"w": 82,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 82,
+						"h": 142
+					},
+					"frame": {
+						"x": 3812,
+						"y": 145,
+						"w": 82,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 82,
+						"h": 142
+					},
+					"frame": {
+						"x": 3812,
+						"y": 145,
+						"w": 82,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 82,
+						"h": 142
+					},
+					"frame": {
+						"x": 3812,
+						"y": 145,
+						"w": 82,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 82,
+						"h": 142
+					},
+					"frame": {
+						"x": 3812,
+						"y": 145,
+						"w": 82,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 82,
+						"h": 142
+					},
+					"frame": {
+						"x": 3812,
+						"y": 145,
+						"w": 82,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 82,
+						"h": 142
+					},
+					"frame": {
+						"x": 3830,
+						"y": 1,
+						"w": 82,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 82,
+						"h": 159
+					},
+					"frame": {
+						"x": 3748,
+						"y": 451,
+						"w": 82,
+						"h": 159
+					}
+				},
+				{
+					"filename": "switch0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 82,
+						"h": 148
+					},
+					"frame": {
+						"x": 3632,
+						"y": 595,
+						"w": 82,
+						"h": 148
+					}
+				},
+				{
+					"filename": "switch0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 82,
+						"h": 148
+					},
+					"frame": {
+						"x": 3825,
+						"y": 289,
+						"w": 82,
+						"h": 148
+					}
+				},
+				{
+					"filename": "switch0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 82,
+						"h": 142
+					},
+					"frame": {
+						"x": 3896,
+						"y": 145,
+						"w": 82,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 82,
+						"h": 142
+					},
+					"frame": {
+						"x": 3914,
+						"y": 1,
+						"w": 82,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 82,
+						"h": 142
+					},
+					"frame": {
+						"x": 3832,
+						"y": 439,
+						"w": 82,
+						"h": 142
+					}
+				},
+				{
+					"filename": "switch0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 82,
+						"h": 142
+					},
+					"frame": {
+						"x": 3909,
+						"y": 289,
+						"w": 82,
+						"h": 142
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:51ae6f6e8520f23bfbd749baa006596e:1bf50f190ec34acd5e106e87fa3ce525:f0706616bb870e9d14688abc061f47e2$"
+	}
+}
