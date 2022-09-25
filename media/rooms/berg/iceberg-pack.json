@@ -3,9 +3,9 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/town/town.json",
-                "path": "assets/media/rooms/town",
-                "key": "town"
+                "url": "assets/media/rooms/berg/iceberg.json",
+                "path": "assets/media/rooms/berg",
+                "key": "iceberg"
             }
         ]
     },

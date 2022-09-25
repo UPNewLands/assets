@@ -178,6 +178,48 @@
 					}
 				},
 				{
+					"filename": "iconbeta-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 102
+					},
+					"frame": {
+						"x": 895,
+						"y": 259,
+						"w": 94,
+						"h": 102
+					}
+				},
+				{
+					"filename": "iconbeta-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 102
+					},
+					"frame": {
+						"x": 895,
+						"y": 259,
+						"w": 94,
+						"h": 102
+					}
+				},
+				{
 					"filename": "button-hover",
 					"rotated": false,
 					"trimmed": true,
@@ -192,7 +234,7 @@
 						"h": 96
 					},
 					"frame": {
-						"x": 895,
+						"x": 991,
 						"y": 259,
 						"w": 96,
 						"h": 96
@@ -213,7 +255,7 @@
 						"h": 4
 					},
 					"frame": {
-						"x": 895,
+						"x": 991,
 						"y": 357,
 						"w": 387,
 						"h": 4
@@ -234,7 +276,7 @@
 						"h": 96
 					},
 					"frame": {
-						"x": 993,
+						"x": 1089,
 						"y": 259,
 						"w": 96,
 						"h": 96
@@ -255,10 +297,31 @@
 						"h": 94
 					},
 					"frame": {
-						"x": 1091,
+						"x": 1187,
 						"y": 259,
 						"w": 94,
 						"h": 94
+					}
+				},
+				{
+					"filename": "iconbeta",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 93
+					},
+					"frame": {
+						"x": 1283,
+						"y": 259,
+						"w": 78,
+						"h": 93
 					}
 				},
 				{
@@ -276,10 +339,73 @@
 						"h": 91
 					},
 					"frame": {
-						"x": 1187,
+						"x": 1363,
 						"y": 259,
 						"w": 95,
 						"h": 91
+					}
+				},
+				{
+					"filename": "account",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 78
+					},
+					"frame": {
+						"x": 1460,
+						"y": 259,
+						"w": 79,
+						"h": 78
+					}
+				},
+				{
+					"filename": "igloo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 63
+					},
+					"frame": {
+						"x": 1460,
+						"y": 339,
+						"w": 79,
+						"h": 63
+					}
+				},
+				{
+					"filename": "badge0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 13,
+						"w": 76,
+						"h": 71
+					},
+					"frame": {
+						"x": 1380,
+						"y": 352,
+						"w": 76,
+						"h": 71
 					}
 				},
 				{
@@ -367,24 +493,24 @@
 					}
 				},
 				{
-					"filename": "igloo",
+					"filename": "send",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 79,
-						"h": 63
+						"w": 51,
+						"h": 41
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 79,
-						"h": 63
+						"w": 51,
+						"h": 41
 					},
 					"frame": {
 						"x": 993,
 						"y": 771,
-						"w": 79,
-						"h": 63
+						"w": 51,
+						"h": 41
 					}
 				},
 				{
@@ -409,48 +535,6 @@
 					}
 				},
 				{
-					"filename": "send",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 51,
-						"h": 41
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 51,
-						"h": 41
-					},
-					"frame": {
-						"x": 1074,
-						"y": 770,
-						"w": 51,
-						"h": 41
-					}
-				},
-				{
-					"filename": "account",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 79,
-						"h": 78
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 79,
-						"h": 78
-					},
-					"frame": {
-						"x": 1105,
-						"y": 689,
-						"w": 79,
-						"h": 78
-					}
-				},
-				{
 					"filename": "question",
 					"rotated": false,
 					"trimmed": true,
@@ -465,8 +549,8 @@
 						"h": 31
 					},
 					"frame": {
-						"x": 1127,
-						"y": 769,
+						"x": 1046,
+						"y": 770,
 						"w": 25,
 						"h": 31
 					}
@@ -486,8 +570,8 @@
 						"h": 28
 					},
 					"frame": {
-						"x": 1127,
-						"y": 802,
+						"x": 1046,
+						"y": 803,
 						"w": 28,
 						"h": 28
 					}
@@ -514,27 +598,6 @@
 					}
 				},
 				{
-					"filename": "player",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 52,
-						"h": 74
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 52,
-						"h": 74
-					},
-					"frame": {
-						"x": 1284,
-						"y": 259,
-						"w": 52,
-						"h": 74
-					}
-				},
-				{
 					"filename": "buddies",
 					"rotated": false,
 					"trimmed": false,
@@ -549,31 +612,31 @@
 						"h": 73
 					},
 					"frame": {
-						"x": 1184,
-						"y": 536,
+						"x": 1305,
+						"y": 363,
 						"w": 67,
 						"h": 73
 					}
 				},
 				{
-					"filename": "badge0003",
+					"filename": "player",
 					"rotated": false,
-					"trimmed": true,
+					"trimmed": false,
 					"sourceSize": {
-						"w": 95,
-						"h": 91
+						"w": 52,
+						"h": 74
 					},
 					"spriteSourceSize": {
-						"x": 1,
-						"y": 13,
-						"w": 76,
-						"h": 71
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 74
 					},
 					"frame": {
-						"x": 1184,
-						"y": 611,
-						"w": 76,
-						"h": 71
+						"x": 1105,
+						"y": 689,
+						"w": 52,
+						"h": 74
 					}
 				}
 			]
@@ -582,6 +645,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:e4dd1ff4da65fa53d4c7402be2ccfa21:0f917706a7e219078ee213233431a5cc:64d947c93c8bb5a0d69e17b66267bf89$"
+		"smartupdate": "$TexturePacker:SmartUpdate:4c6e6d124d75db299e098745370f9d21:bb06c67126cd4ca09efe080e5a5e7584:64d947c93c8bb5a0d69e17b66267bf89$"
 	}
 }

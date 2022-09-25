@@ -3,6 +3,12 @@
         "files": [
             {
                 "type": "multiatlas",
+                "url": "assets/media/rooms/berg/berg.json",
+                "path": "assets/media/rooms/berg",
+                "key": "berg"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/popups/cavelake/cavepopup.json",
                 "path": "assets/media/popups/cavelake",
                 "key": "cavepopup"
