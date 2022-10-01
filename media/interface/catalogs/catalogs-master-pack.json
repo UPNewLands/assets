@@ -3,14 +3,9 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/town/town.json",
-                "path": "assets/media/rooms/town",
-                "key": "town"
-            },
-            {
-                "url": "assets/media/rooms/town/town-physics.json",
-                "type": "json",
-                "key": "town-physics"
+                "url": "assets/media/interface/catalogs/catalogs-master.json",
+                "path": "assets/media/interface/catalogs",
+                "key": "catalogs-master"
             }
         ]
     },

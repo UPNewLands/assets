@@ -1,0 +1,64 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/rooms/dance/sounds/1_sfx_SpeakerOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "1_sfx_SpeakerOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/dance/sounds/2_sfx_SpeakerClose.mp3"
+                ],
+                "type": "audio",
+                "key": "2_sfx_SpeakerClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/dance/sounds/3_sfx_LightOn.mp3"
+                ],
+                "type": "audio",
+                "key": "3_sfx_LightOn"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/dance/sounds/4_sfx_LightOff.mp3"
+                ],
+                "type": "audio",
+                "key": "4_sfx_LightOff"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/dance/sounds/58.mp3"
+                ],
+                "type": "audio",
+                "key": "58"
+            },
+            {
+                "url": "assets/media/rooms/dance/dance-physics.json",
+                "type": "json",
+                "key": "dance-physics"
+            },
+            {
+                "url": "assets/media/rooms/dance/danceClub-anims-new.json",
+                "type": "animation",
+                "key": "danceClub-anims-new"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/dance/danceClub-new.json",
+                "path": "assets/media/rooms/dance",
+                "key": "danceClub-new"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

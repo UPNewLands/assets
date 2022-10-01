@@ -9,6 +9,12 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/catalogs-master.json",
+                "path": "assets/media/interface/catalogs",
+                "key": "catalogs-master"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/popups/cavelake/cavepopup.json",
                 "path": "assets/media/popups/cavelake",
                 "key": "cavepopup"
@@ -137,6 +143,12 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/media/interface/menus/start/newstart.json",
+                "path": "assets/media/interface/menus/start",
+                "key": "newstart"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/penguin/penguin.json",
                 "path": "assets/media/penguin/",
                 "key": "penguin"
@@ -232,6 +244,12 @@
                 "url": "assets/media/interface/game/main/pufflePopup.json",
                 "path": "assets/media/interface/game/main",
                 "key": "pufflePopup"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/popups/rules/rules.json",
+                "path": "assets/media/popups/rules",
+                "key": "rules"
             },
             {
                 "type": "multiatlas",

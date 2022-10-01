@@ -3,14 +3,14 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/town/town.json",
-                "path": "assets/media/rooms/town",
-                "key": "town"
+                "url": "assets/media/rooms/boiler/boiler.json",
+                "path": "assets/media/rooms/boiler",
+                "key": "boiler"
             },
             {
-                "url": "assets/media/rooms/town/town-physics.json",
+                "url": "assets/media/rooms/boiler/boiler-physics.json",
                 "type": "json",
-                "key": "town-physics"
+                "key": "boiler-physics"
             }
         ]
     },

@@ -1,0 +1,126 @@
+{
+    "anims": [
+        {
+            "key": "newspapers",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "book",
+                    "frame": "newspapers0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book",
+                    "frame": "newspapers0018",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

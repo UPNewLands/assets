@@ -26,14 +26,45 @@
 }
 
 @font-face {
+    font-family: 'Burbank Regular Black';
+    font-weight: bolder;
+    src: url('../fonts/Burbank Regular Black.woff2');
+}
+
+
+@font-face {
+    font-family: 'Burbank Regular Bold';
+    font-weight: bold;
+    src: url('../fonts/Burbank Regular Bold.woff2');
+}
+
+@font-face {
+    font-family: 'Burbank Regular Medium';
+    font-weight: normal;
+    src: url('../fonts/Burbank Regular Medium.woff2');
+}
+
+@font-face {
+    font-family: 'Burbank Small Bold';
+    font-weight: bold;
+    src: url('../fonts/Burbank Small Bold.woff2');
+}
+
+@font-face {
     font-family: 'Burbank Small';
     src: url('../fonts/Burbank Small Medium.woff2');
 }
 
 @font-face {
-    font-family: 'Burbank Small';
+    font-family: 'Burbank Wide Black';
+    font-weight: bolder;
+    src: url('../fonts/Burbank Wide Black.woff2');
+}
+
+@font-face {
+    font-family: 'Burbank Wide Bold';
     font-weight: bold;
-    src: url('../fonts/Burbank Small Bold.woff2');
+    src: url('../fonts/Burbank Wide Bold.woff2');
 }
 
 @font-face {

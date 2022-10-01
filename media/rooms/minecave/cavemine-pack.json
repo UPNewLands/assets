@@ -3,14 +3,14 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/town/town.json",
-                "path": "assets/media/rooms/town",
-                "key": "town"
+                "url": "assets/media/rooms/minecave/cavemine.json",
+                "path": "assets/media/rooms/minecave",
+                "key": "cavemine"
             },
             {
-                "url": "assets/media/rooms/town/town-physics.json",
+                "url": "assets/media/rooms/minecave/minecave-physics.json",
                 "type": "json",
-                "key": "town-physics"
+                "key": "minecave-physics"
             }
         ]
     },

@@ -3,14 +3,14 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/town/town.json",
-                "path": "assets/media/rooms/town",
-                "key": "town"
+                "url": "assets/media/rooms/central/central.json",
+                "path": "assets/media/rooms/central",
+                "key": "central"
             },
             {
-                "url": "assets/media/rooms/town/town-physics.json",
+                "url": "assets/media/rooms/central/central-physics.json",
                 "type": "json",
-                "key": "town-physics"
+                "key": "central-physics"
             }
         ]
     },

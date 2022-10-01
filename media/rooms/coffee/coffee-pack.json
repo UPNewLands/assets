@@ -8,21 +8,9 @@
                 "key": "coffee"
             },
             {
-                "url": "assets/media/rooms/coffee/coffee-anims.json",
-                "type": "animation",
-                "key": "coffee-anims"
-            },
-            {
                 "url": "assets/media/rooms/coffee/coffee-physics.json",
                 "type": "json",
                 "key": "coffee-physics"
-            },
-            {
-                "url": [
-                    "assets/media/music/MUS_Evergreen_KingofKingston_CoffeeShop.mp3"
-                ],
-                "type": "audio",
-                "key": "MUS_Evergreen_KingofKingston_CoffeeShop"
             }
         ]
     },

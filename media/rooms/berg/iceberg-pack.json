@@ -2,6 +2,11 @@
     "section1": {
         "files": [
             {
+                "url": "assets/media/rooms/berg/berg-physics.json",
+                "type": "json",
+                "key": "berg-physics"
+            },
+            {
                 "type": "multiatlas",
                 "url": "assets/media/rooms/berg/iceberg.json",
                 "path": "assets/media/rooms/berg",

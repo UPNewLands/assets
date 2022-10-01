@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "rules.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 836,
+				"h": 1251
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 736,
+						"h": 822
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 736,
+						"h": 822
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 822
+					}
+				},
+				{
+					"filename": "rules",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 501,
+						"h": 434
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 495,
+						"h": 425
+					},
+					"frame": {
+						"x": 1,
+						"y": 825,
+						"w": 495,
+						"h": 425
+					}
+				},
+				{
+					"filename": "icons",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 446
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 96,
+						"h": 435
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 96,
+						"h": 435
+					}
+				},
+				{
+					"filename": "button-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 308,
+						"h": 114
+					},
+					"frame": {
+						"x": 498,
+						"y": 825,
+						"w": 308,
+						"h": 114
+					}
+				},
+				{
+					"filename": "button-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 308,
+						"h": 114
+					},
+					"frame": {
+						"x": 498,
+						"y": 941,
+						"w": 308,
+						"h": 114
+					}
+				},
+				{
+					"filename": "button",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 308,
+						"h": 114
+					},
+					"frame": {
+						"x": 498,
+						"y": 1057,
+						"w": 308,
+						"h": 114
+					}
+				},
+				{
+					"filename": "title",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 302,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 298,
+						"h": 34
+					},
+					"frame": {
+						"x": 498,
+						"y": 1173,
+						"w": 298,
+						"h": 34
+					}
+				},
+				{
+					"filename": "Símbolo 5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 179,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 10,
+						"w": 48,
+						"h": 32
+					},
+					"frame": {
+						"x": 498,
+						"y": 1209,
+						"w": 48,
+						"h": 32
+					}
+				},
+				{
+					"filename": "more",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 153,
+						"h": 22
+					},
+					"frame": {
+						"x": 548,
+						"y": 1209,
+						"w": 153,
+						"h": 22
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f7b4e7c8afe80a26dd847400ba0a3741:517d7593c418c8bb454f3c481c294d45:56925a856aa6e5c57e0a7ad092c57920$"
+	}
+}

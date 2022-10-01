@@ -4,13 +4,13 @@
             {
                 "type": "multiatlas",
                 "url": "assets/media/rooms/book/book.json",
-                "path": "assets/media/rooms/book/",
+                "path": "assets/media/rooms/book",
                 "key": "book"
             },
             {
-                "url": "assets/media/rooms/book/book-physics.json",
-                "type": "json",
-                "key": "book-physics"
+                "url": "assets/media/rooms/book/book-anims.json",
+                "type": "animation",
+                "key": "book-anims"
             }
         ]
     },
@@ -18,6 +18,7 @@
         "app": "Phaser Editor 2D - Asset Pack Editor",
         "contentType": "phasereditor2d.pack.core.AssetContentType",
         "url": "https://phasereditor2d.com",
-        "version": 2
+        "version": 2,
+        "showAllFilesInBlocks": false
     }
 }
