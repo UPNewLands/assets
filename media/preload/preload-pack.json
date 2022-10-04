@@ -143,6 +143,12 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/media/interface/menus/servers/newServers.json",
+                "path": "assets/media/interface/menus/servers",
+                "key": "newServers"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/interface/menus/start/newstart.json",
                 "path": "assets/media/interface/menus/start",
                 "key": "newstart"

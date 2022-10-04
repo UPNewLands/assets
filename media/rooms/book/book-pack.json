@@ -11,6 +11,11 @@
                 "url": "assets/media/rooms/book/book-anims.json",
                 "type": "animation",
                 "key": "book-anims"
+            },
+            {
+                "url": "assets/media/rooms/book/book-physics.json",
+                "type": "json",
+                "key": "book-physics"
             }
         ]
     },
