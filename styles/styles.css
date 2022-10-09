@@ -1,5 +1,5 @@
 :root {
-    --bg: #2e3440;
+    --bg: #004ba0;
     --text: #eceff4;
     --accent: #88c0d0;
     --button: #5e81ac;
@@ -20,6 +20,26 @@ body {
     padding: 0;
     background-color: var(--bg);
 }
+
+body::before {
+    content: ' ';
+    display: block;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.08;
+    z-index: -1;
+    /* The image used */
+    background-image: url("https://upnewlands.me/src/images/pattern_6.png");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+  }
 
 a {
     text-decoration: none;
