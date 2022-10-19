@@ -3,12 +3,6 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/black_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "black_adopt"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/black_dig.json",
                 "path": "assets/media/puffles",
                 "key": "black_dig"
@@ -48,12 +42,6 @@
                 "url": "assets/media/puffles/black_speak.json",
                 "path": "assets/media/puffles",
                 "key": "black_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/blackcat_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "blackcat_adopt"
             },
             {
                 "type": "multiatlas",
@@ -99,12 +87,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/blue_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "blue_adopt"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/blue_dig.json",
                 "path": "assets/media/puffles",
                 "key": "blue_dig"
@@ -147,12 +129,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/bluedog_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "bluedog_adopt"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/bluedog_dig.json",
                 "path": "assets/media/puffles",
                 "key": "bluedog_dig"
@@ -192,12 +168,6 @@
                 "url": "assets/media/puffles/bluedog_speak.json",
                 "path": "assets/media/puffles",
                 "key": "bluedog_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/brown_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "brown_adopt"
             },
             {
                 "type": "multiatlas",
@@ -285,12 +255,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/green_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "green_adopt"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/green_dig.json",
                 "path": "assets/media/puffles",
                 "key": "green_dig"
@@ -330,12 +294,6 @@
                 "url": "assets/media/puffles/green_speak.json",
                 "path": "assets/media/puffles",
                 "key": "green_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/orange_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "orange_adopt"
             },
             {
                 "type": "multiatlas",
@@ -381,12 +339,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/orangecat_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "orangecat_adopt"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/orangecat_dig.json",
                 "path": "assets/media/puffles",
                 "key": "orangecat_dig"
@@ -426,12 +378,6 @@
                 "url": "assets/media/puffles/orangecat_speak.json",
                 "path": "assets/media/puffles",
                 "key": "orangecat_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/pink_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "pink_adopt"
             },
             {
                 "type": "multiatlas",
@@ -554,16 +500,54 @@
                 "key": "puffle_yellow"
             },
             {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/purlealien_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "purlealien_adopt"
+                "url": "assets/media/puffles/puffle-black-anims.json",
+                "type": "animation",
+                "key": "puffle-black-anims"
             },
             {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/purple_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "purple_adopt"
+                "url": "assets/media/puffles/puffle-blue-anims.json",
+                "type": "animation",
+                "key": "puffle-blue-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-brown-anims.json",
+                "type": "animation",
+                "key": "puffle-brown-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-green-anims.json",
+                "type": "animation",
+                "key": "puffle-green-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-orange-anims.json",
+                "type": "animation",
+                "key": "puffle-orange-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-pink-anims.json",
+                "type": "animation",
+                "key": "puffle-pink-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-purple-anims.json",
+                "type": "animation",
+                "key": "puffle-purple-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-red-anims.json",
+                "type": "animation",
+                "key": "puffle-red-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-white-anims.json",
+                "type": "animation",
+                "key": "puffle-white-anims"
+            },
+            {
+                "url": "assets/media/puffles/puffle-yellow-anims.json",
+                "type": "animation",
+                "key": "puffle-yellow-anims"
             },
             {
                 "type": "multiatlas",
@@ -651,12 +635,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/red_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "red_adopt"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/red_dig.json",
                 "path": "assets/media/puffles",
                 "key": "red_dig"
@@ -699,12 +677,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/white_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "white_adopt"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/white_dig.json",
                 "path": "assets/media/puffles",
                 "key": "white_dig"
@@ -744,12 +716,6 @@
                 "url": "assets/media/puffles/white_speak.json",
                 "path": "assets/media/puffles",
                 "key": "white_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/yellow_adopt.json",
-                "path": "assets/media/puffles",
-                "key": "yellow_adopt"
             },
             {
                 "type": "multiatlas",

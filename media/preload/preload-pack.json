@@ -214,56 +214,6 @@
                 "key": "prompt"
             },
             {
-                "url": "assets/media/puffles/puffle-black-anims.json",
-                "type": "animation",
-                "key": "puffle-black-anims"
-            },
-            {
-                "url": "assets/media/puffles/puffle-blue-anims.json",
-                "type": "animation",
-                "key": "puffle-blue-anims"
-            },
-            {
-                "url": "assets/media/puffles/puffle-brown-anims.json",
-                "type": "animation",
-                "key": "puffle-brown-anims"
-            },
-            {
-                "url": "assets/media/puffles/puffle-green-anims.json",
-                "type": "animation",
-                "key": "puffle-green-anims"
-            },
-            {
-                "url": "assets/media/puffles/puffle-orange-anims.json",
-                "type": "animation",
-                "key": "puffle-orange-anims"
-            },
-            {
-                "url": "assets/media/puffles/puffle-pink-anims.json",
-                "type": "animation",
-                "key": "puffle-pink-anims"
-            },
-            {
-                "url": "assets/media/puffles/puffle-purple-anims.json",
-                "type": "animation",
-                "key": "puffle-purple-anims"
-            },
-            {
-                "url": "assets/media/puffles/puffle-red-anims.json",
-                "type": "animation",
-                "key": "puffle-red-anims"
-            },
-            {
-                "url": "assets/media/puffles/puffle-white-anims.json",
-                "type": "animation",
-                "key": "puffle-white-anims"
-            },
-            {
-                "url": "assets/media/puffles/puffle-yellow-anims.json",
-                "type": "animation",
-                "key": "puffle-yellow-anims"
-            },
-            {
                 "type": "multiatlas",
                 "url": "assets/media/interface/game/main/pufflePopup.json",
                 "path": "assets/media/interface/game/main",
