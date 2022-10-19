@@ -15,24 +15,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/black_dive.json",
-                "path": "assets/media/puffles",
-                "key": "black_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/black_eat.json",
-                "path": "assets/media/puffles",
-                "key": "black_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/black_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "black_hydrant"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/black_jumpforward.json",
                 "path": "assets/media/puffles",
                 "key": "black_jumpforward"
@@ -42,12 +24,6 @@
                 "url": "assets/media/puffles/black_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "black_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/black_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "black_maxed"
             },
             {
                 "type": "multiatlas",
@@ -69,33 +45,9 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/black_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "black_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/black_speak.json",
                 "path": "assets/media/puffles",
                 "key": "black_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/black_splash.json",
-                "path": "assets/media/puffles",
-                "key": "black_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/black_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "black_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/black_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "black_weightlifting"
             },
             {
                 "type": "multiatlas",
@@ -111,24 +63,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/blackcat_dive.json",
-                "path": "assets/media/puffles",
-                "key": "blackcat_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/blackcat_eat.json",
-                "path": "assets/media/puffles",
-                "key": "blackcat_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/blackcat_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "blackcat_hydrant"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/blackcat_jumpforward.json",
                 "path": "assets/media/puffles",
                 "key": "blackcat_jumpforward"
@@ -138,12 +72,6 @@
                 "url": "assets/media/puffles/blackcat_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "blackcat_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/blackcat_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "blackcat_maxed"
             },
             {
                 "type": "multiatlas",
@@ -165,33 +93,9 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/blackcat_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "blackcat_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/blackcat_speak.json",
                 "path": "assets/media/puffles",
                 "key": "blackcat_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/blackcat_splash.json",
-                "path": "assets/media/puffles",
-                "key": "blackcat_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/blackcat_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "blackcat_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/blackcat_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "blackcat_weightlifting"
             },
             {
                 "type": "multiatlas",
@@ -207,24 +111,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/blue_dive.json",
-                "path": "assets/media/puffles",
-                "key": "blue_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/blue_eat.json",
-                "path": "assets/media/puffles",
-                "key": "blue_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/blue_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "blue_hydrant"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/blue_jumpforward.json",
                 "path": "assets/media/puffles",
                 "key": "blue_jumpforward"
@@ -234,12 +120,6 @@
                 "url": "assets/media/puffles/blue_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "blue_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/blue_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "blue_maxed"
             },
             {
                 "type": "multiatlas",
@@ -261,33 +141,9 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/blue_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "blue_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/blue_speak.json",
                 "path": "assets/media/puffles",
                 "key": "blue_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/blue_splash.json",
-                "path": "assets/media/puffles",
-                "key": "blue_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/blue_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "blue_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/blue_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "blue_weightlifting"
             },
             {
                 "type": "multiatlas",
@@ -303,24 +159,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/bluedog_dive.json",
-                "path": "assets/media/puffles",
-                "key": "bluedog_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/bluedog_eat.json",
-                "path": "assets/media/puffles",
-                "key": "bluedog_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/bluedog_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "bluedog_hydrant"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/bluedog_jumpforward.json",
                 "path": "assets/media/puffles",
                 "key": "bluedog_jumpforward"
@@ -330,12 +168,6 @@
                 "url": "assets/media/puffles/bluedog_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "bluedog_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/bluedog_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "bluedog_maxed"
             },
             {
                 "type": "multiatlas",
@@ -357,33 +189,9 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/bluedog_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "bluedog_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/bluedog_speak.json",
                 "path": "assets/media/puffles",
                 "key": "bluedog_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/bluedog_splash.json",
-                "path": "assets/media/puffles",
-                "key": "bluedog_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/bluedog_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "bluedog_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/bluedog_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "bluedog_weightlifting"
             },
             {
                 "type": "multiatlas",
@@ -399,24 +207,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/brown_dive.json",
-                "path": "assets/media/puffles",
-                "key": "brown_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/brown_eat.json",
-                "path": "assets/media/puffles",
-                "key": "brown_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/brown_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "brown_hydrant"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/brown_jumpforward.json",
                 "path": "assets/media/puffles",
                 "key": "brown_jumpforward"
@@ -426,12 +216,6 @@
                 "url": "assets/media/puffles/brown_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "brown_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/brown_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "brown_maxed"
             },
             {
                 "type": "multiatlas",
@@ -453,57 +237,15 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/brown_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "brown_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/brown_speak.json",
                 "path": "assets/media/puffles",
                 "key": "brown_speak"
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/brown_splash.json",
-                "path": "assets/media/puffles",
-                "key": "brown_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/brown_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "brown_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/brown_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "brown_weightlifting"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/gold_dig.json",
                 "path": "assets/media/puffles",
                 "key": "gold_dig"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/gold_dive.json",
-                "path": "assets/media/puffles",
-                "key": "gold_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/gold_eat.json",
-                "path": "assets/media/puffles",
-                "key": "gold_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/gold_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "gold_hydrant"
             },
             {
                 "type": "multiatlas",
@@ -516,12 +258,6 @@
                 "url": "assets/media/puffles/gold_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "gold_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/gold_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "gold_maxed"
             },
             {
                 "type": "multiatlas",
@@ -543,33 +279,9 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/gold_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "gold_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/gold_speak.json",
                 "path": "assets/media/puffles",
                 "key": "gold_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/gold_splash.json",
-                "path": "assets/media/puffles",
-                "key": "gold_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/gold_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "gold_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/gold_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "gold_weightlifting"
             },
             {
                 "type": "multiatlas",
@@ -585,24 +297,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/green_dive.json",
-                "path": "assets/media/puffles",
-                "key": "green_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/green_eat.json",
-                "path": "assets/media/puffles",
-                "key": "green_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/green_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "green_hydrant"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/green_jumpforward.json",
                 "path": "assets/media/puffles",
                 "key": "green_jumpforward"
@@ -612,12 +306,6 @@
                 "url": "assets/media/puffles/green_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "green_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/green_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "green_maxed"
             },
             {
                 "type": "multiatlas",
@@ -639,33 +327,9 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/green_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "green_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/green_speak.json",
                 "path": "assets/media/puffles",
                 "key": "green_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/green_splash.json",
-                "path": "assets/media/puffles",
-                "key": "green_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/green_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "green_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/green_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "green_weightlifting"
             },
             {
                 "type": "multiatlas",
@@ -681,24 +345,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/orange_dive.json",
-                "path": "assets/media/puffles",
-                "key": "orange_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/orange_eat.json",
-                "path": "assets/media/puffles",
-                "key": "orange_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/orange_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "orange_hydrant"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/orange_jumpforward.json",
                 "path": "assets/media/puffles",
                 "key": "orange_jumpforward"
@@ -708,12 +354,6 @@
                 "url": "assets/media/puffles/orange_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "orange_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/orange_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "orange_maxed"
             },
             {
                 "type": "multiatlas",
@@ -735,33 +375,9 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/orange_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "orange_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/orange_speak.json",
                 "path": "assets/media/puffles",
                 "key": "orange_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/orange_splash.json",
-                "path": "assets/media/puffles",
-                "key": "orange_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/orange_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "orange_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/orange_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "orange_weightlifting"
             },
             {
                 "type": "multiatlas",
@@ -777,24 +393,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/orangecat_dive.json",
-                "path": "assets/media/puffles",
-                "key": "orangecat_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/orangecat_eat.json",
-                "path": "assets/media/puffles",
-                "key": "orangecat_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/orangecat_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "orangecat_hydrant"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/orangecat_jumpforward.json",
                 "path": "assets/media/puffles",
                 "key": "orangecat_jumpforward"
@@ -804,12 +402,6 @@
                 "url": "assets/media/puffles/orangecat_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "orangecat_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/orangecat_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "orangecat_maxed"
             },
             {
                 "type": "multiatlas",
@@ -831,33 +423,9 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/orangecat_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "orangecat_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/orangecat_speak.json",
                 "path": "assets/media/puffles",
                 "key": "orangecat_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/orangecat_splash.json",
-                "path": "assets/media/puffles",
-                "key": "orangecat_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/orangecat_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "orangecat_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/orangecat_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "orangecat_weightlifting"
             },
             {
                 "type": "multiatlas",
@@ -873,24 +441,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/pink_dive.json",
-                "path": "assets/media/puffles",
-                "key": "pink_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/pink_eat.json",
-                "path": "assets/media/puffles",
-                "key": "pink_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/pink_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "pink_hydrant"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/pink_jumpforward.json",
                 "path": "assets/media/puffles",
                 "key": "pink_jumpforward"
@@ -900,12 +450,6 @@
                 "url": "assets/media/puffles/pink_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "pink_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/pink_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "pink_maxed"
             },
             {
                 "type": "multiatlas",
@@ -927,33 +471,9 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/pink_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "pink_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/pink_speak.json",
                 "path": "assets/media/puffles",
                 "key": "pink_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/pink_splash.json",
-                "path": "assets/media/puffles",
-                "key": "pink_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/pink_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "pink_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/pink_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "pink_weightlifting"
             },
             {
                 "type": "multiatlas",
@@ -1053,24 +573,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/purple_dive.json",
-                "path": "assets/media/puffles",
-                "key": "purple_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/purple_eat.json",
-                "path": "assets/media/puffles",
-                "key": "purple_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/purple_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "purple_hydrant"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/purple_jumpforward.json",
                 "path": "assets/media/puffles",
                 "key": "purple_jumpforward"
@@ -1080,12 +582,6 @@
                 "url": "assets/media/puffles/purple_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "purple_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/purple_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "purple_maxed"
             },
             {
                 "type": "multiatlas",
@@ -1107,57 +603,15 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/purple_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "purple_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/purple_speak.json",
                 "path": "assets/media/puffles",
                 "key": "purple_speak"
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/purple_splash.json",
-                "path": "assets/media/puffles",
-                "key": "purple_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/purple_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "purple_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/purple_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "purple_weightlifting"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/rainbow_dig.json",
                 "path": "assets/media/puffles",
                 "key": "rainbow_dig"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/rainbow_dive.json",
-                "path": "assets/media/puffles",
-                "key": "rainbow_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/rainbow_eat.json",
-                "path": "assets/media/puffles",
-                "key": "rainbow_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/rainbow_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "rainbow_hydrant"
             },
             {
                 "type": "multiatlas",
@@ -1170,12 +624,6 @@
                 "url": "assets/media/puffles/rainbow_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "rainbow_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/rainbow_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "rainbow_maxed"
             },
             {
                 "type": "multiatlas",
@@ -1197,33 +645,9 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/rainbow_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "rainbow_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/rainbow_speak.json",
                 "path": "assets/media/puffles",
                 "key": "rainbow_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/rainbow_splash.json",
-                "path": "assets/media/puffles",
-                "key": "rainbow_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/rainbow_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "rainbow_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/rainbow_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "rainbow_weightlifting"
             },
             {
                 "type": "multiatlas",
@@ -1239,24 +663,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/red_dive.json",
-                "path": "assets/media/puffles",
-                "key": "red_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/red_eat.json",
-                "path": "assets/media/puffles",
-                "key": "red_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/red_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "red_hydrant"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/red_jumpforward.json",
                 "path": "assets/media/puffles",
                 "key": "red_jumpforward"
@@ -1266,12 +672,6 @@
                 "url": "assets/media/puffles/red_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "red_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/red_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "red_maxed"
             },
             {
                 "type": "multiatlas",
@@ -1293,33 +693,9 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/red_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "red_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/red_speak.json",
                 "path": "assets/media/puffles",
                 "key": "red_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/red_splash.json",
-                "path": "assets/media/puffles",
-                "key": "red_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/red_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "red_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/red_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "red_weightlifting"
             },
             {
                 "type": "multiatlas",
@@ -1335,24 +711,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/white_dive.json",
-                "path": "assets/media/puffles",
-                "key": "white_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/white_eat_eat_eat.json",
-                "path": "assets/media/puffles",
-                "key": "white_eat_eat_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/white_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "white_hydrant"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/white_jumpforward.json",
                 "path": "assets/media/puffles",
                 "key": "white_jumpforward"
@@ -1362,12 +720,6 @@
                 "url": "assets/media/puffles/white_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "white_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/white_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "white_maxed"
             },
             {
                 "type": "multiatlas",
@@ -1389,33 +741,9 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/white_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "white_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/white_speak.json",
                 "path": "assets/media/puffles",
                 "key": "white_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/white_splash.json",
-                "path": "assets/media/puffles",
-                "key": "white_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/white_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "white_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/white_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "white_weightlifting"
             },
             {
                 "type": "multiatlas",
@@ -1431,24 +759,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/yellow_dive.json",
-                "path": "assets/media/puffles",
-                "key": "yellow_dive"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/yellow_eat.json",
-                "path": "assets/media/puffles",
-                "key": "yellow_eat"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/yellow_hydrant.json",
-                "path": "assets/media/puffles",
-                "key": "yellow_hydrant"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/yellow_jumpforward.json",
                 "path": "assets/media/puffles",
                 "key": "yellow_jumpforward"
@@ -1458,12 +768,6 @@
                 "url": "assets/media/puffles/yellow_jumpspin.json",
                 "path": "assets/media/puffles",
                 "key": "yellow_jumpspin"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/yellow_maxed.json",
-                "path": "assets/media/puffles",
-                "key": "yellow_maxed"
             },
             {
                 "type": "multiatlas",
@@ -1485,33 +789,9 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/puffles/yellow_scratchpost.json",
-                "path": "assets/media/puffles",
-                "key": "yellow_scratchpost"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/puffles/yellow_speak.json",
                 "path": "assets/media/puffles",
                 "key": "yellow_speak"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/yellow_splash.json",
-                "path": "assets/media/puffles",
-                "key": "yellow_splash"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/yellow_tireswing.json",
-                "path": "assets/media/puffles",
-                "key": "yellow_tireswing"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/puffles/yellow_weightlifting.json",
-                "path": "assets/media/puffles",
-                "key": "yellow_weightlifting"
             }
         ]
     },
