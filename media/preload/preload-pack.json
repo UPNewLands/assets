@@ -38,12 +38,6 @@
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/interface/game/map/clouds.json",
-                "path": "assets/media/interface/game/map",
-                "key": "clouds"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/interface/game/main/coins.json",
                 "path": "assets/media/interface/game/main",
                 "key": "coins"
@@ -242,6 +236,12 @@
                 "url": "assets/media/closeup/telescope/telescope.json",
                 "path": "assets/media/closeup/telescope",
                 "key": "telescope"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/popups/unlock/unlock.json",
+                "path": "assets/media/popups/unlock",
+                "key": "unlock"
             }
         ]
     },
