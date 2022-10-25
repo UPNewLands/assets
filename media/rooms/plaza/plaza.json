@@ -1,96 +1,33 @@
 {
 	"textures": [
 		{
-			"image": "plaza.png",
+			"image": "plaza-0.webp",
 			"format": "RGBA8888",
 			"size": {
-				"w": 4091,
-				"h": 3500
+				"w": 3996,
+				"h": 4095
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "Símbolo 60",
+					"filename": "Símbolo 109",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 1810,
-						"h": 1378
+						"w": 2326,
+						"h": 657
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 1810,
-						"h": 1378
+						"w": 2326,
+						"h": 657
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 1810,
-						"h": 1378
-					}
-				},
-				{
-					"filename": "Símbolo 600",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 1810,
-						"h": 1378
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 1810,
-						"h": 1378
-					},
-					"frame": {
-						"x": 1,
-						"y": 1381,
-						"w": 1810,
-						"h": 1378
-					}
-				},
-				{
-					"filename": "Símbolo 43",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 1836,
-						"h": 737
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 1836,
-						"h": 737
-					},
-					"frame": {
-						"x": 1813,
-						"y": 1,
-						"w": 1836,
-						"h": 737
-					}
-				},
-				{
-					"filename": "sky",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1839,
-						"h": 577
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 1,
-						"w": 1839,
-						"h": 576
-					},
-					"frame": {
-						"x": 1813,
-						"y": 740,
-						"w": 1839,
-						"h": 576
+						"w": 2326,
+						"h": 657
 					}
 				},
 				{
@@ -108,497 +45,1085 @@
 						"h": 601
 					},
 					"frame": {
-						"x": 1,
-						"y": 2761,
+						"x": 2329,
+						"y": 1,
 						"w": 1632,
 						"h": 601
 					}
 				},
 				{
-					"filename": "Símbolo 78",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 1752,
-						"h": 272
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 1752,
-						"h": 272
-					},
-					"frame": {
-						"x": 1813,
-						"y": 1318,
-						"w": 1752,
-						"h": 272
-					}
-				},
-				{
-					"filename": "Símbolo 79",
+					"filename": "tentacles010011",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 1635,
-						"h": 429
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
-						"x": 64,
-						"y": 0,
-						"w": 1571,
-						"h": 362
+						"x": 13,
+						"y": 63,
+						"w": 32,
+						"h": 24
 					},
 					"frame": {
-						"x": 1813,
-						"y": 1592,
-						"w": 1571,
-						"h": 362
-					}
-				},
-				{
-					"filename": "Símbolo 76",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 1018,
-						"h": 657
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 1018,
-						"h": 657
-					},
-					"frame": {
-						"x": 1813,
-						"y": 1956,
-						"w": 1018,
-						"h": 657
-					}
-				},
-				{
-					"filename": "Símbolo 69",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 689,
-						"h": 838
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 689,
-						"h": 838
-					},
-					"frame": {
-						"x": 2833,
-						"y": 1956,
-						"w": 689,
-						"h": 838
-					}
-				},
-				{
-					"filename": "Símbolo 73",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 1013,
-						"h": 380
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 1013,
-						"h": 380
-					},
-					"frame": {
-						"x": 1813,
-						"y": 2615,
-						"w": 1013,
-						"h": 380
-					}
-				},
-				{
-					"filename": "Símbolo 440003",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1045,
-						"h": 319
-					},
-					"spriteSourceSize": {
-						"x": 6,
-						"y": 0,
-						"w": 1039,
-						"h": 319
-					},
-					"frame": {
-						"x": 1635,
-						"y": 2997,
-						"w": 1039,
-						"h": 319
-					}
-				},
-				{
-					"filename": "Símbolo 28",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 425,
-						"h": 464
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 425,
-						"h": 464
-					},
-					"frame": {
-						"x": 3651,
+						"x": 3963,
 						"y": 1,
-						"w": 425,
-						"h": 464
+						"w": 32,
+						"h": 24
 					}
 				},
 				{
-					"filename": "lights",
+					"filename": "tentacles020015",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 907,
-						"h": 425
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
-						"x": 64,
-						"y": 0,
-						"w": 843,
-						"h": 358
+						"x": 13,
+						"y": 63,
+						"w": 32,
+						"h": 24
 					},
 					"frame": {
-						"x": 2828,
-						"y": 2796,
-						"w": 843,
-						"h": 358
-					}
-				},
-				{
-					"filename": "pizza",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 394,
-						"h": 478
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 394,
-						"h": 478
-					},
-					"frame": {
-						"x": 3654,
-						"y": 467,
-						"w": 394,
-						"h": 478
-					}
-				},
-				{
-					"filename": "Símbolo 63",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 432,
-						"h": 433
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 432,
-						"h": 433
-					},
-					"frame": {
-						"x": 3654,
-						"y": 947,
-						"w": 432,
-						"h": 433
-					}
-				},
-				{
-					"filename": "Símbolo 65",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 452,
-						"h": 220
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 452,
-						"h": 220
-					},
-					"frame": {
-						"x": 3567,
-						"y": 1382,
-						"w": 452,
-						"h": 220
-					}
-				},
-				{
-					"filename": "Símbolo 56",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 559,
-						"h": 504
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 559,
-						"h": 504
-					},
-					"frame": {
-						"x": 3524,
-						"y": 1604,
-						"w": 559,
-						"h": 504
-					}
-				},
-				{
-					"filename": "pizzeria",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 394,
-						"h": 478
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 394,
-						"h": 478
-					},
-					"frame": {
-						"x": 3524,
-						"y": 2110,
-						"w": 394,
-						"h": 478
-					}
-				},
-				{
-					"filename": "Sprite 791 copia",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 170,
-						"h": 308
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 170,
-						"h": 308
-					},
-					"frame": {
-						"x": 3920,
-						"y": 2110,
-						"w": 170,
-						"h": 308
-					}
-				},
-				{
-					"filename": "Símbolo 75",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 411,
-						"h": 187
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 411,
-						"h": 187
-					},
-					"frame": {
-						"x": 3524,
-						"y": 2590,
-						"w": 411,
-						"h": 187
-					}
-				},
-				{
-					"filename": "Símbolo 440001",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1045,
-						"h": 319
-					},
-					"spriteSourceSize": {
-						"x": 779,
-						"y": 151,
-						"w": 191,
-						"h": 135
-					},
-					"frame": {
-						"x": 1,
-						"y": 3364,
-						"w": 191,
-						"h": 135
-					}
-				},
-				{
-					"filename": "Símbolo 440004",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1045,
-						"h": 319
-					},
-					"spriteSourceSize": {
-						"x": 779,
-						"y": 151,
-						"w": 191,
-						"h": 135
-					},
-					"frame": {
-						"x": 1,
-						"y": 3364,
-						"w": 191,
-						"h": 135
-					}
-				},
-				{
-					"filename": "Símbolo 440002",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1045,
-						"h": 319
-					},
-					"spriteSourceSize": {
-						"x": 779,
-						"y": 151,
-						"w": 191,
-						"h": 135
-					},
-					"frame": {
-						"x": 194,
-						"y": 3364,
-						"w": 191,
-						"h": 135
-					}
-				},
-				{
-					"filename": "Símbolo 29",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 304,
-						"h": 249
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 304,
-						"h": 249
-					},
-					"frame": {
-						"x": 3673,
-						"y": 2779,
-						"w": 304,
-						"h": 249
-					}
-				},
-				{
-					"filename": "Símbolo 77",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 345,
-						"h": 127
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 345,
-						"h": 127
-					},
-					"frame": {
-						"x": 387,
-						"y": 3364,
-						"w": 345,
-						"h": 127
-					}
-				},
-				{
-					"filename": "wooden",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 395,
-						"h": 164
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 395,
-						"h": 164
-					},
-					"frame": {
-						"x": 1635,
-						"y": 3318,
-						"w": 395,
-						"h": 164
-					}
-				},
-				{
-					"filename": "Símbolo 58",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 345,
-						"h": 152
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 345,
-						"h": 152
-					},
-					"frame": {
-						"x": 2032,
-						"y": 3318,
-						"w": 345,
-						"h": 152
-					}
-				},
-				{
-					"filename": "Símbolo 24",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 329,
-						"h": 180
-					},
-					"spriteSourceSize": {
-						"x": 0,
+						"x": 3963,
 						"y": 1,
-						"w": 329,
-						"h": 179
-					},
-					"frame": {
-						"x": 2379,
-						"y": 3318,
-						"w": 329,
-						"h": 179
+						"w": 32,
+						"h": 24
 					}
 				},
 				{
-					"filename": "Símbolo 610001",
+					"filename": "tentacles030007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 63,
+						"w": 32,
+						"h": 24
+					},
+					"frame": {
+						"x": 3963,
+						"y": 27,
+						"w": 32,
+						"h": 24
+					}
+				},
+				{
+					"filename": "tentacles030068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 65,
+						"w": 32,
+						"h": 22
+					},
+					"frame": {
+						"x": 3963,
+						"y": 53,
+						"w": 32,
+						"h": 22
+					}
+				},
+				{
+					"filename": "tentacles010072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 66,
+						"w": 32,
+						"h": 21
+					},
+					"frame": {
+						"x": 3963,
+						"y": 77,
+						"w": 32,
+						"h": 21
+					}
+				},
+				{
+					"filename": "tentacles020076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 66,
+						"w": 32,
+						"h": 21
+					},
+					"frame": {
+						"x": 3963,
+						"y": 77,
+						"w": 32,
+						"h": 21
+					}
+				},
+				{
+					"filename": "tentacles010010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 67,
+						"w": 31,
+						"h": 20
+					},
+					"frame": {
+						"x": 3963,
+						"y": 100,
+						"w": 31,
+						"h": 20
+					}
+				},
+				{
+					"filename": "tentacles020014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 67,
+						"w": 31,
+						"h": 20
+					},
+					"frame": {
+						"x": 3963,
+						"y": 100,
+						"w": 31,
+						"h": 20
+					}
+				},
+				{
+					"filename": "tentacles030006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 67,
+						"w": 31,
+						"h": 20
+					},
+					"frame": {
+						"x": 3963,
+						"y": 122,
+						"w": 31,
+						"h": 20
+					}
+				},
+				{
+					"filename": "tentacles010009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 70,
+						"w": 31,
+						"h": 17
+					},
+					"frame": {
+						"x": 3963,
+						"y": 144,
+						"w": 31,
+						"h": 17
+					}
+				},
+				{
+					"filename": "tentacles020013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 70,
+						"w": 31,
+						"h": 17
+					},
+					"frame": {
+						"x": 3963,
+						"y": 144,
+						"w": 31,
+						"h": 17
+					}
+				},
+				{
+					"filename": "tentacles030005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 70,
+						"w": 31,
+						"h": 17
+					},
+					"frame": {
+						"x": 3963,
+						"y": 163,
+						"w": 31,
+						"h": 17
+					}
+				},
+				{
+					"filename": "tentacles010008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 70,
+						"w": 30,
+						"h": 17
+					},
+					"frame": {
+						"x": 3963,
+						"y": 182,
+						"w": 30,
+						"h": 17
+					}
+				},
+				{
+					"filename": "tentacles020012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 70,
+						"w": 30,
+						"h": 17
+					},
+					"frame": {
+						"x": 3963,
+						"y": 182,
+						"w": 30,
+						"h": 17
+					}
+				},
+				{
+					"filename": "tentacles030004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 70,
+						"w": 30,
+						"h": 17
+					},
+					"frame": {
+						"x": 3963,
+						"y": 201,
+						"w": 30,
+						"h": 17
+					}
+				},
+				{
+					"filename": "tentacles010073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 70,
+						"w": 29,
+						"h": 17
+					},
+					"frame": {
+						"x": 3963,
+						"y": 220,
+						"w": 29,
+						"h": 17
+					}
+				},
+				{
+					"filename": "tentacles020077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 70,
+						"w": 29,
+						"h": 17
+					},
+					"frame": {
+						"x": 3963,
+						"y": 220,
+						"w": 29,
+						"h": 17
+					}
+				},
+				{
+					"filename": "tentacles030069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 70,
+						"w": 29,
+						"h": 17
+					},
+					"frame": {
+						"x": 3963,
+						"y": 239,
+						"w": 29,
+						"h": 17
+					}
+				},
+				{
+					"filename": "tentacles010074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 73,
+						"w": 27,
+						"h": 14
+					},
+					"frame": {
+						"x": 3963,
+						"y": 258,
+						"w": 27,
+						"h": 14
+					}
+				},
+				{
+					"filename": "tentacles020078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 73,
+						"w": 27,
+						"h": 14
+					},
+					"frame": {
+						"x": 3963,
+						"y": 258,
+						"w": 27,
+						"h": 14
+					}
+				},
+				{
+					"filename": "tentacles010001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles010002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles010003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles010004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles010005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles010077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles020001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles020002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles020003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles020004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles020005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles020006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles020007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles020008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles020009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles020081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles030001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles030073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 3992,
+						"y": 258,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "tentacles030070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 73,
+						"w": 27,
+						"h": 14
+					},
+					"frame": {
+						"x": 3963,
+						"y": 274,
+						"w": 27,
+						"h": 14
+					}
+				},
+				{
+					"filename": "tentacles010007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 75,
+						"w": 26,
+						"h": 12
+					},
+					"frame": {
+						"x": 3963,
+						"y": 290,
+						"w": 26,
+						"h": 12
+					}
+				},
+				{
+					"filename": "tentacles020011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 75,
+						"w": 26,
+						"h": 12
+					},
+					"frame": {
+						"x": 3963,
+						"y": 290,
+						"w": 26,
+						"h": 12
+					}
+				},
+				{
+					"filename": "tentacles030003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 75,
+						"w": 26,
+						"h": 12
+					},
+					"frame": {
+						"x": 3963,
+						"y": 304,
+						"w": 26,
+						"h": 12
+					}
+				},
+				{
+					"filename": "tentacles010075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 75,
+						"w": 23,
+						"h": 12
+					},
+					"frame": {
+						"x": 3963,
+						"y": 318,
+						"w": 23,
+						"h": 12
+					}
+				},
+				{
+					"filename": "tentacles020079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 75,
+						"w": 23,
+						"h": 12
+					},
+					"frame": {
+						"x": 3963,
+						"y": 318,
+						"w": 23,
+						"h": 12
+					}
+				},
+				{
+					"filename": "tentacles030071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 75,
+						"w": 23,
+						"h": 12
+					},
+					"frame": {
+						"x": 3963,
+						"y": 332,
+						"w": 23,
+						"h": 12
+					}
+				},
+				{
+					"filename": "tentacles010076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 77,
+						"w": 19,
+						"h": 9
+					},
+					"frame": {
+						"x": 3963,
+						"y": 346,
+						"w": 19,
+						"h": 9
+					}
+				},
+				{
+					"filename": "tentacles020080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 77,
+						"w": 19,
+						"h": 9
+					},
+					"frame": {
+						"x": 3963,
+						"y": 346,
+						"w": 19,
+						"h": 9
+					}
+				},
+				{
+					"filename": "tentacles030072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 77,
+						"w": 19,
+						"h": 9
+					},
+					"frame": {
+						"x": 3963,
+						"y": 357,
+						"w": 19,
+						"h": 9
+					}
+				},
+				{
+					"filename": "tentacles010006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 77,
+						"w": 18,
+						"h": 9
+					},
+					"frame": {
+						"x": 3963,
+						"y": 368,
+						"w": 18,
+						"h": 9
+					}
+				},
+				{
+					"filename": "tentacles020010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 77,
+						"w": 18,
+						"h": 9
+					},
+					"frame": {
+						"x": 3963,
+						"y": 368,
+						"w": 18,
+						"h": 9
+					}
+				},
+				{
+					"filename": "tentacles030002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 77,
+						"w": 18,
+						"h": 9
+					},
+					"frame": {
+						"x": 3963,
+						"y": 379,
+						"w": 18,
+						"h": 9
+					}
+				},
+				{
+					"filename": "Símbolo 610003",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -606,121 +1131,58 @@
 						"h": 152
 					},
 					"spriteSourceSize": {
-						"x": 356,
-						"y": 4,
-						"w": 328,
-						"h": 148
+						"x": 0,
+						"y": 0,
+						"w": 17,
+						"h": 17
 					},
 					"frame": {
-						"x": 3673,
-						"y": 3030,
-						"w": 328,
-						"h": 148
+						"x": 3963,
+						"y": 390,
+						"w": 17,
+						"h": 17
 					}
 				},
 				{
-					"filename": "Símbolo 610004",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 684,
-						"h": 152
-					},
-					"spriteSourceSize": {
-						"x": 356,
-						"y": 4,
-						"w": 328,
-						"h": 148
-					},
-					"frame": {
-						"x": 3673,
-						"y": 3030,
-						"w": 328,
-						"h": 148
-					}
-				},
-				{
-					"filename": "Símbolo 70",
+					"filename": "Símbolo 104",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 129,
-						"h": 278
+						"w": 1013,
+						"h": 380
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 129,
-						"h": 278
+						"w": 1013,
+						"h": 380
 					},
 					"frame": {
-						"x": 3386,
-						"y": 1592,
-						"w": 129,
-						"h": 278
+						"x": 2329,
+						"y": 604,
+						"w": 1013,
+						"h": 380
 					}
 				},
 				{
-					"filename": "Símbolo 610002",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 684,
-						"h": 152
-					},
-					"spriteSourceSize": {
-						"x": 356,
-						"y": 4,
-						"w": 328,
-						"h": 148
-					},
-					"frame": {
-						"x": 2676,
-						"y": 3156,
-						"w": 328,
-						"h": 148
-					}
-				},
-				{
-					"filename": "Símbolo 59",
+					"filename": "Symbol 82",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 242,
-						"h": 255
+						"w": 470,
+						"h": 482
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 242,
-						"h": 255
+						"w": 470,
+						"h": 482
 					},
 					"frame": {
-						"x": 3006,
-						"y": 3156,
-						"w": 242,
-						"h": 255
-					}
-				},
-				{
-					"filename": "Symbol 242",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 220,
-						"h": 274
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 220,
-						"h": 274
-					},
-					"frame": {
-						"x": 3250,
-						"y": 3156,
-						"w": 220,
-						"h": 274
+						"x": 3344,
+						"y": 604,
+						"w": 470,
+						"h": 482
 					}
 				},
 				{
@@ -738,325 +1200,1228 @@
 						"h": 210
 					},
 					"frame": {
-						"x": 3472,
-						"y": 3156,
+						"x": 3816,
+						"y": 604,
 						"w": 179,
 						"h": 210
 					}
 				},
 				{
-					"filename": "noentry",
+					"filename": "Shape 194",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 220,
-						"h": 274
+						"w": 173,
+						"h": 87
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 220,
-						"h": 274
+						"w": 173,
+						"h": 87
 					},
 					"frame": {
-						"x": 3653,
-						"y": 3180,
-						"w": 220,
-						"h": 274
+						"x": 3816,
+						"y": 816,
+						"w": 173,
+						"h": 87
 					}
 				},
 				{
-					"filename": "Símbolo 61",
+					"filename": "Sprite 791 copia",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 308
+					},
+					"frame": {
+						"x": 3816,
+						"y": 905,
+						"w": 170,
+						"h": 308
+					}
+				},
+				{
+					"filename": "Símbolo 43",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1836,
+						"h": 737
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1836,
+						"h": 737
+					},
+					"frame": {
+						"x": 1,
+						"y": 660,
+						"w": 1836,
+						"h": 737
+					}
+				},
+				{
+					"filename": "Símbolo 94",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 452,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 452,
+						"h": 260
+					},
+					"frame": {
+						"x": 1839,
+						"y": 660,
+						"w": 452,
+						"h": 260
+					}
+				},
+				{
+					"filename": "tentacles010070",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 209,
-						"h": 184
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 187,
-						"h": 184
+						"x": 9,
+						"y": 59,
+						"w": 34,
+						"h": 28
 					},
 					"frame": {
-						"x": 2710,
-						"y": 3306,
-						"w": 187,
-						"h": 184
+						"x": 2293,
+						"y": 660,
+						"w": 34,
+						"h": 28
 					}
 				},
 				{
-					"filename": "Sprite 181",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 179,
-						"h": 208
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 179,
-						"h": 208
-					},
-					"frame": {
-						"x": 3875,
-						"y": 3180,
-						"w": 179,
-						"h": 208
-					}
-				},
-				{
-					"filename": "pizzadoor-active",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 138,
-						"h": 140
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 138,
-						"h": 140
-					},
-					"frame": {
-						"x": 1635,
-						"y": 2761,
-						"w": 138,
-						"h": 140
-					}
-				},
-				{
-					"filename": "pizzadoor-hover",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 138,
-						"h": 140
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 138,
-						"h": 140
-					},
-					"frame": {
-						"x": 1635,
-						"y": 2761,
-						"w": 138,
-						"h": 140
-					}
-				},
-				{
-					"filename": "Sprite 331",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 154,
-						"h": 91
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 154,
-						"h": 91
-					},
-					"frame": {
-						"x": 3920,
-						"y": 2420,
-						"w": 154,
-						"h": 91
-					}
-				},
-				{
-					"filename": "Symbol 185",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 148,
-						"h": 96
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 148,
-						"h": 96
-					},
-					"frame": {
-						"x": 734,
-						"y": 3364,
-						"w": 148,
-						"h": 96
-					}
-				},
-				{
-					"filename": "Sprite 72",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 139,
-						"h": 100
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 139,
-						"h": 100
-					},
-					"frame": {
-						"x": 2676,
-						"y": 2997,
-						"w": 139,
-						"h": 100
-					}
-				},
-				{
-					"filename": "pizzadoor",
+					"filename": "tentacles020074",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 138,
-						"h": 140
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 95,
-						"h": 128
+						"x": 9,
+						"y": 59,
+						"w": 34,
+						"h": 28
 					},
 					"frame": {
-						"x": 2899,
-						"y": 3306,
-						"w": 95,
-						"h": 128
+						"x": 2293,
+						"y": 660,
+						"w": 34,
+						"h": 28
 					}
 				},
 				{
-					"filename": "petdoor-active",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 126,
-						"h": 112
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 126,
-						"h": 112
-					},
-					"frame": {
-						"x": 884,
-						"y": 3364,
-						"w": 126,
-						"h": 112
-					}
-				},
-				{
-					"filename": "petdoor-hover",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 126,
-						"h": 112
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 126,
-						"h": 112
-					},
-					"frame": {
-						"x": 884,
-						"y": 3364,
-						"w": 126,
-						"h": 112
-					}
-				},
-				{
-					"filename": "Símbolo 20",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 146,
-						"h": 72
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 146,
-						"h": 72
-					},
-					"frame": {
-						"x": 3920,
-						"y": 2513,
-						"w": 146,
-						"h": 72
-					}
-				},
-				{
-					"filename": "entry-active",
+					"filename": "tentacles030066",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 107,
-						"h": 116
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
-						"x": 4,
-						"y": 0,
-						"w": 103,
-						"h": 115
+						"x": 9,
+						"y": 59,
+						"w": 34,
+						"h": 28
 					},
 					"frame": {
-						"x": 1012,
-						"y": 3364,
-						"w": 103,
-						"h": 115
+						"x": 2293,
+						"y": 690,
+						"w": 34,
+						"h": 28
 					}
 				},
 				{
-					"filename": "entry-hover",
+					"filename": "tentacles010071",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 107,
-						"h": 116
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
-						"x": 4,
-						"y": 0,
-						"w": 103,
-						"h": 115
+						"x": 13,
+						"y": 62,
+						"w": 33,
+						"h": 25
 					},
 					"frame": {
-						"x": 1012,
-						"y": 3364,
-						"w": 103,
-						"h": 115
+						"x": 2293,
+						"y": 720,
+						"w": 33,
+						"h": 25
 					}
 				},
 				{
-					"filename": "petdoor",
+					"filename": "tentacles020075",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 126,
-						"h": 112
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
-						"x": 36,
+						"x": 13,
+						"y": 62,
+						"w": 33,
+						"h": 25
+					},
+					"frame": {
+						"x": 2293,
+						"y": 720,
+						"w": 33,
+						"h": 25
+					}
+				},
+				{
+					"filename": "tentacles030067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 62,
+						"w": 33,
+						"h": 25
+					},
+					"frame": {
+						"x": 2293,
+						"y": 747,
+						"w": 33,
+						"h": 25
+					}
+				},
+				{
+					"filename": "Símbolo 28",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 464
+					},
+					"spriteSourceSize": {
+						"x": 0,
 						"y": 0,
+						"w": 425,
+						"h": 464
+					},
+					"frame": {
+						"x": 1839,
+						"y": 922,
+						"w": 425,
+						"h": 464
+					}
+				},
+				{
+					"filename": "tentacles010041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 55,
+						"h": 84
+					},
+					"frame": {
+						"x": 2266,
+						"y": 922,
+						"w": 55,
+						"h": 84
+					}
+				},
+				{
+					"filename": "tentacles010042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 55,
+						"h": 84
+					},
+					"frame": {
+						"x": 2266,
+						"y": 922,
+						"w": 55,
+						"h": 84
+					}
+				},
+				{
+					"filename": "tentacles020045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 55,
+						"h": 84
+					},
+					"frame": {
+						"x": 2266,
+						"y": 922,
+						"w": 55,
+						"h": 84
+					}
+				},
+				{
+					"filename": "tentacles020046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 55,
+						"h": 84
+					},
+					"frame": {
+						"x": 2266,
+						"y": 922,
+						"w": 55,
+						"h": 84
+					}
+				},
+				{
+					"filename": "Símbolo 56",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 827,
+						"h": 588
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 827,
+						"h": 588
+					},
+					"frame": {
+						"x": 2323,
+						"y": 986,
+						"w": 827,
+						"h": 588
+					}
+				},
+				{
+					"filename": "tentacles030037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 55,
+						"h": 84
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1008,
+						"w": 55,
+						"h": 84
+					}
+				},
+				{
+					"filename": "tentacles030038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 55,
+						"h": 84
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1008,
+						"w": 55,
+						"h": 84
+					}
+				},
+				{
+					"filename": "tentacles010026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 55,
+						"h": 77
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1094,
+						"w": 55,
+						"h": 77
+					}
+				},
+				{
+					"filename": "tentacles020030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 55,
+						"h": 77
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1094,
+						"w": 55,
+						"h": 77
+					}
+				},
+				{
+					"filename": "tentacles030022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 55,
+						"h": 77
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1173,
+						"w": 55,
+						"h": 77
+					}
+				},
+				{
+					"filename": "tentacles010033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1252,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles010034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1252,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles010049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1252,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles010050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1252,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles020037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1252,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles020038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1252,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles020053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1252,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles020054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1252,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles010035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1341,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles010036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1341,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles010047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1341,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles010048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1341,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles020039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1341,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles020040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1341,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles020051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1341,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles020052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2266,
+						"y": 1341,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "Símbolo 73",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 413,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 413,
+						"h": 190
+					},
+					"frame": {
+						"x": 1839,
+						"y": 1388,
+						"w": 413,
+						"h": 190
+					}
+				},
+				{
+					"filename": "sky",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1735,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 1735,
+						"h": 511
+					},
+					"frame": {
+						"x": 2254,
+						"y": 1576,
+						"w": 1735,
+						"h": 511
+					}
+				},
+				{
+					"filename": "Símbolo 23",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 394,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 394,
+						"h": 482
+					},
+					"frame": {
+						"x": 3152,
+						"y": 1088,
+						"w": 394,
+						"h": 482
+					}
+				},
+				{
+					"filename": "Símbolo 107",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 89
+					},
+					"frame": {
+						"x": 3152,
+						"y": 986,
+						"w": 156,
+						"h": 89
+					}
+				},
+				{
+					"filename": "tentacles010037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2254,
+						"y": 1430,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles010038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2254,
+						"y": 1430,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles010045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2254,
+						"y": 1430,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles010046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2254,
+						"y": 1430,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles020041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2254,
+						"y": 1430,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles020042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2254,
+						"y": 1430,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles020049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2254,
+						"y": 1430,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles020050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 2254,
+						"y": 1430,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles010020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 32,
+						"w": 50,
+						"h": 55
+					},
+					"frame": {
+						"x": 2254,
+						"y": 1519,
+						"w": 50,
+						"h": 55
+					}
+				},
+				{
+					"filename": "tentacles020024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 32,
+						"w": 50,
+						"h": 55
+					},
+					"frame": {
+						"x": 2254,
+						"y": 1519,
+						"w": 50,
+						"h": 55
+					}
+				},
+				{
+					"filename": "Símbolo 105",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 252,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 252,
+						"h": 150
+					},
+					"frame": {
+						"x": 3548,
+						"y": 1088,
+						"w": 252,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Symbol 242 copia",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 194,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 192,
+						"h": 124
+					},
+					"frame": {
+						"x": 3802,
+						"y": 1215,
+						"w": 192,
+						"h": 124
+					}
+				},
+				{
+					"filename": "smoke20014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 8,
+						"w": 91,
+						"h": 233
+					},
+					"frame": {
+						"x": 3548,
+						"y": 1341,
+						"w": 91,
+						"h": 233
+					}
+				},
+				{
+					"filename": "smoke20011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 8,
+						"w": 84,
+						"h": 233
+					},
+					"frame": {
+						"x": 3641,
+						"y": 1341,
+						"w": 84,
+						"h": 233
+					}
+				},
+				{
+					"filename": "smoke20012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 8,
+						"w": 82,
+						"h": 233
+					},
+					"frame": {
+						"x": 3727,
+						"y": 1341,
+						"w": 82,
+						"h": 233
+					}
+				},
+				{
+					"filename": "smoke20013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 9,
 						"w": 90,
-						"h": 112
+						"h": 232
 					},
 					"frame": {
-						"x": 1117,
-						"y": 3364,
+						"x": 3811,
+						"y": 1341,
 						"w": 90,
-						"h": 112
+						"h": 232
+					}
+				},
+				{
+					"filename": "smoke20004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 13,
+						"w": 92,
+						"h": 228
+					},
+					"frame": {
+						"x": 3903,
+						"y": 1341,
+						"w": 92,
+						"h": 228
 					}
 				},
 				{
@@ -1074,8 +2439,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1635,
-						"y": 2903,
+						"x": 3548,
+						"y": 1240,
 						"w": 100,
 						"h": 87
 					}
@@ -1095,8 +2460,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1635,
-						"y": 2903,
+						"x": 3548,
+						"y": 1240,
 						"w": 100,
 						"h": 87
 					}
@@ -1116,10 +2481,1543 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1635,
-						"y": 2903,
+						"x": 3548,
+						"y": 1240,
 						"w": 100,
 						"h": 87
+					}
+				},
+				{
+					"filename": "Símbolo 20",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 146,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 146,
+						"h": 72
+					},
+					"frame": {
+						"x": 3650,
+						"y": 1240,
+						"w": 146,
+						"h": 72
+					}
+				},
+				{
+					"filename": "Símbolo 60",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1810,
+						"h": 1378
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1810,
+						"h": 1378
+					},
+					"frame": {
+						"x": 1,
+						"y": 1399,
+						"w": 1810,
+						"h": 1378
+					}
+				},
+				{
+					"filename": "fire0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 376,
+						"h": 1125
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 14,
+						"w": 357,
+						"h": 1098
+					},
+					"frame": {
+						"x": 1813,
+						"y": 1580,
+						"w": 357,
+						"h": 1098
+					}
+				},
+				{
+					"filename": "smoke20019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 5,
+						"w": 78,
+						"h": 236
+					},
+					"frame": {
+						"x": 2172,
+						"y": 1580,
+						"w": 78,
+						"h": 236
+					}
+				},
+				{
+					"filename": "smoke20021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 78,
+						"h": 236
+					},
+					"frame": {
+						"x": 2172,
+						"y": 1818,
+						"w": 78,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Símbolo 21",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 102
+					},
+					"frame": {
+						"x": 2172,
+						"y": 2056,
+						"w": 78,
+						"h": 102
+					}
+				},
+				{
+					"filename": "fire0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 376,
+						"h": 1125
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 5,
+						"w": 355,
+						"h": 1107
+					},
+					"frame": {
+						"x": 1,
+						"y": 2779,
+						"w": 355,
+						"h": 1107
+					}
+				},
+				{
+					"filename": "Símbolo 103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 165,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 169
+					},
+					"frame": {
+						"x": 1,
+						"y": 3888,
+						"w": 164,
+						"h": 169
+					}
+				},
+				{
+					"filename": "Symbol 256",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 35
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 35
+					},
+					"frame": {
+						"x": 1,
+						"y": 4059,
+						"w": 42,
+						"h": 35
+					}
+				},
+				{
+					"filename": "tentacles010068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 52,
+						"w": 40,
+						"h": 35
+					},
+					"frame": {
+						"x": 45,
+						"y": 4059,
+						"w": 40,
+						"h": 35
+					}
+				},
+				{
+					"filename": "tentacles020072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 52,
+						"w": 40,
+						"h": 35
+					},
+					"frame": {
+						"x": 45,
+						"y": 4059,
+						"w": 40,
+						"h": 35
+					}
+				},
+				{
+					"filename": "tentacles030064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 52,
+						"w": 40,
+						"h": 35
+					},
+					"frame": {
+						"x": 87,
+						"y": 4059,
+						"w": 40,
+						"h": 35
+					}
+				},
+				{
+					"filename": "tentacles010014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 53,
+						"w": 40,
+						"h": 34
+					},
+					"frame": {
+						"x": 129,
+						"y": 4059,
+						"w": 40,
+						"h": 34
+					}
+				},
+				{
+					"filename": "tentacles020018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 53,
+						"w": 40,
+						"h": 34
+					},
+					"frame": {
+						"x": 129,
+						"y": 4059,
+						"w": 40,
+						"h": 34
+					}
+				},
+				{
+					"filename": "Símbolo 101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 349,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 349,
+						"h": 165
+					},
+					"frame": {
+						"x": 167,
+						"y": 3888,
+						"w": 349,
+						"h": 165
+					}
+				},
+				{
+					"filename": "tentacles010067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 48,
+						"w": 41,
+						"h": 39
+					},
+					"frame": {
+						"x": 171,
+						"y": 4055,
+						"w": 41,
+						"h": 39
+					}
+				},
+				{
+					"filename": "tentacles020071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 48,
+						"w": 41,
+						"h": 39
+					},
+					"frame": {
+						"x": 171,
+						"y": 4055,
+						"w": 41,
+						"h": 39
+					}
+				},
+				{
+					"filename": "tentacles030063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 48,
+						"w": 41,
+						"h": 39
+					},
+					"frame": {
+						"x": 214,
+						"y": 4055,
+						"w": 41,
+						"h": 39
+					}
+				},
+				{
+					"filename": "tentacles010015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 50,
+						"w": 44,
+						"h": 37
+					},
+					"frame": {
+						"x": 257,
+						"y": 4055,
+						"w": 44,
+						"h": 37
+					}
+				},
+				{
+					"filename": "tentacles020019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 50,
+						"w": 44,
+						"h": 37
+					},
+					"frame": {
+						"x": 257,
+						"y": 4055,
+						"w": 44,
+						"h": 37
+					}
+				},
+				{
+					"filename": "tentacles030011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 50,
+						"w": 44,
+						"h": 37
+					},
+					"frame": {
+						"x": 303,
+						"y": 4055,
+						"w": 44,
+						"h": 37
+					}
+				},
+				{
+					"filename": "tentacles030010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 53,
+						"w": 40,
+						"h": 34
+					},
+					"frame": {
+						"x": 349,
+						"y": 4055,
+						"w": 40,
+						"h": 34
+					}
+				},
+				{
+					"filename": "tentacles010069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 55,
+						"w": 36,
+						"h": 32
+					},
+					"frame": {
+						"x": 391,
+						"y": 4055,
+						"w": 36,
+						"h": 32
+					}
+				},
+				{
+					"filename": "tentacles020073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 55,
+						"w": 36,
+						"h": 32
+					},
+					"frame": {
+						"x": 391,
+						"y": 4055,
+						"w": 36,
+						"h": 32
+					}
+				},
+				{
+					"filename": "tentacles030065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 55,
+						"w": 36,
+						"h": 32
+					},
+					"frame": {
+						"x": 429,
+						"y": 4055,
+						"w": 36,
+						"h": 32
+					}
+				},
+				{
+					"filename": "tentacles030009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 56,
+						"w": 37,
+						"h": 31
+					},
+					"frame": {
+						"x": 467,
+						"y": 4055,
+						"w": 37,
+						"h": 31
+					}
+				},
+				{
+					"filename": "tentacles010013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 57,
+						"w": 37,
+						"h": 30
+					},
+					"frame": {
+						"x": 506,
+						"y": 4055,
+						"w": 37,
+						"h": 30
+					}
+				},
+				{
+					"filename": "tentacles020017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 57,
+						"w": 37,
+						"h": 30
+					},
+					"frame": {
+						"x": 506,
+						"y": 4055,
+						"w": 37,
+						"h": 30
+					}
+				},
+				{
+					"filename": "fire0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 376,
+						"h": 1125
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 20,
+						"w": 357,
+						"h": 1092
+					},
+					"frame": {
+						"x": 358,
+						"y": 2779,
+						"w": 357,
+						"h": 1092
+					}
+				},
+				{
+					"filename": "smoke20028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 22,
+						"w": 93,
+						"h": 219
+					},
+					"frame": {
+						"x": 545,
+						"y": 3873,
+						"w": 93,
+						"h": 219
+					}
+				},
+				{
+					"filename": "smoke20002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 23,
+						"w": 94,
+						"h": 218
+					},
+					"frame": {
+						"x": 640,
+						"y": 3873,
+						"w": 94,
+						"h": 218
+					}
+				},
+				{
+					"filename": "fire0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 376,
+						"h": 1125
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 353,
+						"h": 1088
+					},
+					"frame": {
+						"x": 717,
+						"y": 2779,
+						"w": 353,
+						"h": 1088
+					}
+				},
+				{
+					"filename": "smoke20005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 91,
+						"h": 225
+					},
+					"frame": {
+						"x": 736,
+						"y": 3869,
+						"w": 91,
+						"h": 225
+					}
+				},
+				{
+					"filename": "smoke20007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 90,
+						"h": 225
+					},
+					"frame": {
+						"x": 829,
+						"y": 3869,
+						"w": 90,
+						"h": 225
+					}
+				},
+				{
+					"filename": "smoke20027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 93,
+						"h": 218
+					},
+					"frame": {
+						"x": 921,
+						"y": 3869,
+						"w": 93,
+						"h": 218
+					}
+				},
+				{
+					"filename": "smoke20003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 94,
+						"h": 216
+					},
+					"frame": {
+						"x": 1016,
+						"y": 3869,
+						"w": 94,
+						"h": 216
+					}
+				},
+				{
+					"filename": "fire0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 376,
+						"h": 1125
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 26,
+						"w": 353,
+						"h": 1086
+					},
+					"frame": {
+						"x": 1072,
+						"y": 2779,
+						"w": 353,
+						"h": 1086
+					}
+				},
+				{
+					"filename": "smoke20006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 15,
+						"w": 90,
+						"h": 226
+					},
+					"frame": {
+						"x": 1112,
+						"y": 3867,
+						"w": 90,
+						"h": 226
+					}
+				},
+				{
+					"filename": "smoke20001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 30,
+						"w": 93,
+						"h": 211
+					},
+					"frame": {
+						"x": 1204,
+						"y": 3867,
+						"w": 93,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Símbolo 95",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 296,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 160
+					},
+					"frame": {
+						"x": 1299,
+						"y": 3867,
+						"w": 296,
+						"h": 160
+					}
+				},
+				{
+					"filename": "Símbolo 72",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 51,
+						"w": 107,
+						"h": 65
+					},
+					"frame": {
+						"x": 1299,
+						"y": 4029,
+						"w": 107,
+						"h": 65
+					}
+				},
+				{
+					"filename": "tentacles010022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 52,
+						"h": 62
+					},
+					"frame": {
+						"x": 1408,
+						"y": 4029,
+						"w": 52,
+						"h": 62
+					}
+				},
+				{
+					"filename": "tentacles020026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 52,
+						"h": 62
+					},
+					"frame": {
+						"x": 1408,
+						"y": 4029,
+						"w": 52,
+						"h": 62
+					}
+				},
+				{
+					"filename": "tentacles030018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 52,
+						"h": 62
+					},
+					"frame": {
+						"x": 1462,
+						"y": 4029,
+						"w": 52,
+						"h": 62
+					}
+				},
+				{
+					"filename": "fire0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 376,
+						"h": 1125
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 30,
+						"w": 352,
+						"h": 1082
+					},
+					"frame": {
+						"x": 1427,
+						"y": 2779,
+						"w": 352,
+						"h": 1082
+					}
+				},
+				{
+					"filename": "smoke20009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 10,
+						"w": 90,
+						"h": 231
+					},
+					"frame": {
+						"x": 1597,
+						"y": 3863,
+						"w": 90,
+						"h": 231
+					}
+				},
+				{
+					"filename": "smoke20008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 10,
+						"w": 89,
+						"h": 231
+					},
+					"frame": {
+						"x": 1689,
+						"y": 3863,
+						"w": 89,
+						"h": 231
+					}
+				},
+				{
+					"filename": "tentacles010061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 26,
+						"w": 52,
+						"h": 61
+					},
+					"frame": {
+						"x": 1516,
+						"y": 4029,
+						"w": 52,
+						"h": 61
+					}
+				},
+				{
+					"filename": "tentacles020065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 26,
+						"w": 52,
+						"h": 61
+					},
+					"frame": {
+						"x": 1516,
+						"y": 4029,
+						"w": 52,
+						"h": 61
+					}
+				},
+				{
+					"filename": "Símbolo 97",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 296,
+						"h": 156
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 156
+					},
+					"frame": {
+						"x": 1780,
+						"y": 3863,
+						"w": 296,
+						"h": 156
+					}
+				},
+				{
+					"filename": "tentacles010025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 14,
+						"w": 54,
+						"h": 73
+					},
+					"frame": {
+						"x": 1780,
+						"y": 4021,
+						"w": 54,
+						"h": 73
+					}
+				},
+				{
+					"filename": "tentacles020029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 14,
+						"w": 54,
+						"h": 73
+					},
+					"frame": {
+						"x": 1780,
+						"y": 4021,
+						"w": 54,
+						"h": 73
+					}
+				},
+				{
+					"filename": "tentacles030021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 14,
+						"w": 54,
+						"h": 73
+					},
+					"frame": {
+						"x": 1836,
+						"y": 4021,
+						"w": 54,
+						"h": 73
+					}
+				},
+				{
+					"filename": "tentacles030054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 53,
+						"h": 73
+					},
+					"frame": {
+						"x": 1892,
+						"y": 4021,
+						"w": 53,
+						"h": 73
+					}
+				},
+				{
+					"filename": "tentacles010058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 53,
+						"h": 72
+					},
+					"frame": {
+						"x": 1947,
+						"y": 4021,
+						"w": 53,
+						"h": 72
+					}
+				},
+				{
+					"filename": "tentacles020062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 53,
+						"h": 72
+					},
+					"frame": {
+						"x": 1947,
+						"y": 4021,
+						"w": 53,
+						"h": 72
+					}
+				},
+				{
+					"filename": "Símbolo 34",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 71
+					},
+					"frame": {
+						"x": 2002,
+						"y": 4021,
+						"w": 152,
+						"h": 71
+					}
+				},
+				{
+					"filename": "fire0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 376,
+						"h": 1125
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 32,
+						"w": 355,
+						"h": 1080
+					},
+					"frame": {
+						"x": 1781,
+						"y": 2779,
+						"w": 355,
+						"h": 1080
+					}
+				},
+				{
+					"filename": "Símbolo 610001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 152
+					},
+					"spriteSourceSize": {
+						"x": 356,
+						"y": 4,
+						"w": 328,
+						"h": 148
+					},
+					"frame": {
+						"x": 2078,
+						"y": 3861,
+						"w": 328,
+						"h": 148
+					}
+				},
+				{
+					"filename": "Símbolo 610004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 152
+					},
+					"spriteSourceSize": {
+						"x": 356,
+						"y": 4,
+						"w": 328,
+						"h": 148
+					},
+					"frame": {
+						"x": 2078,
+						"y": 3861,
+						"w": 328,
+						"h": 148
+					}
+				},
+				{
+					"filename": "tentacles010029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 54,
+						"h": 83
+					},
+					"frame": {
+						"x": 2156,
+						"y": 4011,
+						"w": 54,
+						"h": 83
+					}
+				},
+				{
+					"filename": "tentacles010054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 54,
+						"h": 83
+					},
+					"frame": {
+						"x": 2156,
+						"y": 4011,
+						"w": 54,
+						"h": 83
+					}
+				},
+				{
+					"filename": "tentacles020033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 54,
+						"h": 83
+					},
+					"frame": {
+						"x": 2156,
+						"y": 4011,
+						"w": 54,
+						"h": 83
+					}
+				},
+				{
+					"filename": "tentacles020058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 54,
+						"h": 83
+					},
+					"frame": {
+						"x": 2156,
+						"y": 4011,
+						"w": 54,
+						"h": 83
+					}
+				},
+				{
+					"filename": "tentacles010030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 54,
+						"h": 83
+					},
+					"frame": {
+						"x": 2212,
+						"y": 4011,
+						"w": 54,
+						"h": 83
+					}
+				},
+				{
+					"filename": "tentacles010053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 54,
+						"h": 83
+					},
+					"frame": {
+						"x": 2212,
+						"y": 4011,
+						"w": 54,
+						"h": 83
+					}
+				},
+				{
+					"filename": "tentacles020034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 54,
+						"h": 83
+					},
+					"frame": {
+						"x": 2212,
+						"y": 4011,
+						"w": 54,
+						"h": 83
+					}
+				},
+				{
+					"filename": "tentacles020057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 54,
+						"h": 83
+					},
+					"frame": {
+						"x": 2212,
+						"y": 4011,
+						"w": 54,
+						"h": 83
+					}
+				},
+				{
+					"filename": "tentacles030024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 54,
+						"h": 83
+					},
+					"frame": {
+						"x": 2268,
+						"y": 4011,
+						"w": 54,
+						"h": 83
+					}
+				},
+				{
+					"filename": "tentacles030025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 54,
+						"h": 83
+					},
+					"frame": {
+						"x": 2324,
+						"y": 4011,
+						"w": 54,
+						"h": 83
+					}
+				},
+				{
+					"filename": "tentacles030050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 54,
+						"h": 83
+					},
+					"frame": {
+						"x": 2324,
+						"y": 4011,
+						"w": 54,
+						"h": 83
+					}
+				},
+				{
+					"filename": "tentacles030026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 54,
+						"h": 83
+					},
+					"frame": {
+						"x": 2380,
+						"y": 4011,
+						"w": 54,
+						"h": 83
+					}
+				},
+				{
+					"filename": "tentacles030049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 54,
+						"h": 83
+					},
+					"frame": {
+						"x": 2380,
+						"y": 4011,
+						"w": 54,
+						"h": 83
 					}
 				},
 				{
@@ -1137,8 +4035,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1209,
-						"y": 3364,
+						"x": 1813,
+						"y": 2680,
 						"w": 97,
 						"h": 87
 					}
@@ -1158,8 +4056,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1209,
-						"y": 3364,
+						"x": 1813,
+						"y": 2680,
 						"w": 97,
 						"h": 87
 					}
@@ -1179,8 +4077,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1209,
-						"y": 3364,
+						"x": 1813,
+						"y": 2680,
 						"w": 97,
 						"h": 87
 					}
@@ -1200,8 +4098,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1308,
-						"y": 3364,
+						"x": 1912,
+						"y": 2680,
 						"w": 97,
 						"h": 87
 					}
@@ -1221,8 +4119,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1308,
-						"y": 3364,
+						"x": 1912,
+						"y": 2680,
 						"w": 97,
 						"h": 87
 					}
@@ -1242,8 +4140,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1308,
-						"y": 3364,
+						"x": 1912,
+						"y": 2680,
 						"w": 97,
 						"h": 87
 					}
@@ -1263,8 +4161,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1407,
-						"y": 3364,
+						"x": 2011,
+						"y": 2680,
 						"w": 96,
 						"h": 87
 					}
@@ -1284,8 +4182,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1407,
-						"y": 3364,
+						"x": 2011,
+						"y": 2680,
 						"w": 96,
 						"h": 87
 					}
@@ -1305,31 +4203,10 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1407,
-						"y": 3364,
+						"x": 2011,
+						"y": 2680,
 						"w": 96,
 						"h": 87
-					}
-				},
-				{
-					"filename": "Símbolo 22",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 78,
-						"h": 102
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 78,
-						"h": 102
-					},
-					"frame": {
-						"x": 3937,
-						"y": 2587,
-						"w": 78,
-						"h": 102
 					}
 				},
 				{
@@ -1347,8 +4224,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1505,
-						"y": 3364,
+						"x": 2109,
+						"y": 2680,
 						"w": 89,
 						"h": 87
 					}
@@ -1368,8 +4245,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1505,
-						"y": 3364,
+						"x": 2109,
+						"y": 2680,
 						"w": 89,
 						"h": 87
 					}
@@ -1389,31 +4266,1606 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 1505,
-						"y": 3364,
+						"x": 2109,
+						"y": 2680,
 						"w": 89,
 						"h": 87
 					}
 				},
 				{
-					"filename": "entry",
+					"filename": "fire0013",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 107,
-						"h": 116
+						"w": 376,
+						"h": 1125
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 32,
+						"w": 351,
+						"h": 1080
+					},
+					"frame": {
+						"x": 2138,
+						"y": 2769,
+						"w": 351,
+						"h": 1080
+					}
+				},
+				{
+					"filename": "Símbolo 98",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 220,
+						"h": 241
 					},
 					"spriteSourceSize": {
 						"x": 0,
-						"y": 51,
-						"w": 107,
-						"h": 65
+						"y": 0,
+						"w": 220,
+						"h": 241
 					},
 					"frame": {
-						"x": 3386,
-						"y": 1872,
-						"w": 107,
-						"h": 65
+						"x": 2436,
+						"y": 3851,
+						"w": 220,
+						"h": 241
+					}
+				},
+				{
+					"filename": "Símbolo 100",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 298
+					},
+					"frame": {
+						"x": 2172,
+						"y": 2160,
+						"w": 323,
+						"h": 298
+					}
+				},
+				{
+					"filename": "tentacles010059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 54,
+						"h": 69
+					},
+					"frame": {
+						"x": 2252,
+						"y": 2089,
+						"w": 54,
+						"h": 69
+					}
+				},
+				{
+					"filename": "tentacles020063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 54,
+						"h": 69
+					},
+					"frame": {
+						"x": 2252,
+						"y": 2089,
+						"w": 54,
+						"h": 69
+					}
+				},
+				{
+					"filename": "tentacles030019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 20,
+						"w": 53,
+						"h": 67
+					},
+					"frame": {
+						"x": 2308,
+						"y": 2089,
+						"w": 53,
+						"h": 67
+					}
+				},
+				{
+					"filename": "tentacles010023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 53,
+						"h": 66
+					},
+					"frame": {
+						"x": 2363,
+						"y": 2089,
+						"w": 53,
+						"h": 66
+					}
+				},
+				{
+					"filename": "tentacles020027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 53,
+						"h": 66
+					},
+					"frame": {
+						"x": 2363,
+						"y": 2089,
+						"w": 53,
+						"h": 66
+					}
+				},
+				{
+					"filename": "tentacles010060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 21,
+						"w": 51,
+						"h": 66
+					},
+					"frame": {
+						"x": 2418,
+						"y": 2089,
+						"w": 51,
+						"h": 66
+					}
+				},
+				{
+					"filename": "tentacles020064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 21,
+						"w": 51,
+						"h": 66
+					},
+					"frame": {
+						"x": 2418,
+						"y": 2089,
+						"w": 51,
+						"h": 66
+					}
+				},
+				{
+					"filename": "tentacles030056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 21,
+						"w": 51,
+						"h": 66
+					},
+					"frame": {
+						"x": 2471,
+						"y": 2089,
+						"w": 51,
+						"h": 66
+					}
+				},
+				{
+					"filename": "Symbol 242",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 220,
+						"h": 277
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 220,
+						"h": 277
+					},
+					"frame": {
+						"x": 2200,
+						"y": 2460,
+						"w": 220,
+						"h": 277
+					}
+				},
+				{
+					"filename": "tentacles010012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 59,
+						"w": 35,
+						"h": 28
+					},
+					"frame": {
+						"x": 2200,
+						"y": 2739,
+						"w": 35,
+						"h": 28
+					}
+				},
+				{
+					"filename": "tentacles020016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 59,
+						"w": 35,
+						"h": 28
+					},
+					"frame": {
+						"x": 2200,
+						"y": 2739,
+						"w": 35,
+						"h": 28
+					}
+				},
+				{
+					"filename": "tentacles030008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 59,
+						"w": 35,
+						"h": 28
+					},
+					"frame": {
+						"x": 2237,
+						"y": 2739,
+						"w": 35,
+						"h": 28
+					}
+				},
+				{
+					"filename": "Símbolo 102",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 269,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 269,
+						"h": 276
+					},
+					"frame": {
+						"x": 2422,
+						"y": 2460,
+						"w": 269,
+						"h": 276
+					}
+				},
+				{
+					"filename": "fire0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 376,
+						"h": 1125
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 33,
+						"w": 355,
+						"h": 1079
+					},
+					"frame": {
+						"x": 2491,
+						"y": 2738,
+						"w": 355,
+						"h": 1079
+					}
+				},
+				{
+					"filename": "Símbolo 106",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 191,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 268
+					},
+					"frame": {
+						"x": 2658,
+						"y": 3819,
+						"w": 191,
+						"h": 268
+					}
+				},
+				{
+					"filename": "Símbolo 108",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 765,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 765,
+						"h": 256
+					},
+					"frame": {
+						"x": 2497,
+						"y": 2157,
+						"w": 765,
+						"h": 256
+					}
+				},
+				{
+					"filename": "tentacles010065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 44,
+						"w": 46,
+						"h": 43
+					},
+					"frame": {
+						"x": 2497,
+						"y": 2415,
+						"w": 46,
+						"h": 43
+					}
+				},
+				{
+					"filename": "tentacles020069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 44,
+						"w": 46,
+						"h": 43
+					},
+					"frame": {
+						"x": 2497,
+						"y": 2415,
+						"w": 46,
+						"h": 43
+					}
+				},
+				{
+					"filename": "tentacles010017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 45,
+						"w": 47,
+						"h": 42
+					},
+					"frame": {
+						"x": 2545,
+						"y": 2415,
+						"w": 47,
+						"h": 42
+					}
+				},
+				{
+					"filename": "tentacles020021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 45,
+						"w": 47,
+						"h": 42
+					},
+					"frame": {
+						"x": 2545,
+						"y": 2415,
+						"w": 47,
+						"h": 42
+					}
+				},
+				{
+					"filename": "tentacles030013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 45,
+						"w": 47,
+						"h": 42
+					},
+					"frame": {
+						"x": 2594,
+						"y": 2415,
+						"w": 47,
+						"h": 42
+					}
+				},
+				{
+					"filename": "tentacles010016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 46,
+						"w": 45,
+						"h": 41
+					},
+					"frame": {
+						"x": 2643,
+						"y": 2415,
+						"w": 45,
+						"h": 41
+					}
+				},
+				{
+					"filename": "tentacles020020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 46,
+						"w": 45,
+						"h": 41
+					},
+					"frame": {
+						"x": 2643,
+						"y": 2415,
+						"w": 45,
+						"h": 41
+					}
+				},
+				{
+					"filename": "tentacles030012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 46,
+						"w": 45,
+						"h": 41
+					},
+					"frame": {
+						"x": 2690,
+						"y": 2415,
+						"w": 45,
+						"h": 41
+					}
+				},
+				{
+					"filename": "tentacles030057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 26,
+						"w": 52,
+						"h": 61
+					},
+					"frame": {
+						"x": 2524,
+						"y": 2089,
+						"w": 52,
+						"h": 61
+					}
+				},
+				{
+					"filename": "tentacles010021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 28,
+						"w": 53,
+						"h": 59
+					},
+					"frame": {
+						"x": 2578,
+						"y": 2089,
+						"w": 53,
+						"h": 59
+					}
+				},
+				{
+					"filename": "tentacles020025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 28,
+						"w": 53,
+						"h": 59
+					},
+					"frame": {
+						"x": 2578,
+						"y": 2089,
+						"w": 53,
+						"h": 59
+					}
+				},
+				{
+					"filename": "tentacles030017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 28,
+						"w": 53,
+						"h": 59
+					},
+					"frame": {
+						"x": 2633,
+						"y": 2089,
+						"w": 53,
+						"h": 59
+					}
+				},
+				{
+					"filename": "tentacles030058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 29,
+						"w": 51,
+						"h": 58
+					},
+					"frame": {
+						"x": 2688,
+						"y": 2089,
+						"w": 51,
+						"h": 58
+					}
+				},
+				{
+					"filename": "tentacles010062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 30,
+						"w": 51,
+						"h": 57
+					},
+					"frame": {
+						"x": 2741,
+						"y": 2089,
+						"w": 51,
+						"h": 57
+					}
+				},
+				{
+					"filename": "tentacles020066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 30,
+						"w": 51,
+						"h": 57
+					},
+					"frame": {
+						"x": 2741,
+						"y": 2089,
+						"w": 51,
+						"h": 57
+					}
+				},
+				{
+					"filename": "tentacles030016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 32,
+						"w": 50,
+						"h": 55
+					},
+					"frame": {
+						"x": 2794,
+						"y": 2089,
+						"w": 50,
+						"h": 55
+					}
+				},
+				{
+					"filename": "tentacles010063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 33,
+						"w": 49,
+						"h": 54
+					},
+					"frame": {
+						"x": 2846,
+						"y": 2089,
+						"w": 49,
+						"h": 54
+					}
+				},
+				{
+					"filename": "tentacles020067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 33,
+						"w": 49,
+						"h": 54
+					},
+					"frame": {
+						"x": 2846,
+						"y": 2089,
+						"w": 49,
+						"h": 54
+					}
+				},
+				{
+					"filename": "tentacles030059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 33,
+						"w": 49,
+						"h": 54
+					},
+					"frame": {
+						"x": 2897,
+						"y": 2089,
+						"w": 49,
+						"h": 54
+					}
+				},
+				{
+					"filename": "tentacles030015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 35,
+						"w": 49,
+						"h": 52
+					},
+					"frame": {
+						"x": 2948,
+						"y": 2089,
+						"w": 49,
+						"h": 52
+					}
+				},
+				{
+					"filename": "Símbolo 69",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 51
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 135,
+						"h": 51
+					},
+					"frame": {
+						"x": 2999,
+						"y": 2089,
+						"w": 135,
+						"h": 51
+					}
+				},
+				{
+					"filename": "tentacles010019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 36,
+						"w": 49,
+						"h": 51
+					},
+					"frame": {
+						"x": 3136,
+						"y": 2089,
+						"w": 49,
+						"h": 51
+					}
+				},
+				{
+					"filename": "tentacles020023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 36,
+						"w": 49,
+						"h": 51
+					},
+					"frame": {
+						"x": 3136,
+						"y": 2089,
+						"w": 49,
+						"h": 51
+					}
+				},
+				{
+					"filename": "tentacles010064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 37,
+						"w": 47,
+						"h": 50
+					},
+					"frame": {
+						"x": 3187,
+						"y": 2089,
+						"w": 47,
+						"h": 50
+					}
+				},
+				{
+					"filename": "tentacles020068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 37,
+						"w": 47,
+						"h": 50
+					},
+					"frame": {
+						"x": 3187,
+						"y": 2089,
+						"w": 47,
+						"h": 50
+					}
+				},
+				{
+					"filename": "tentacles030060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 37,
+						"w": 47,
+						"h": 50
+					},
+					"frame": {
+						"x": 3236,
+						"y": 2089,
+						"w": 47,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Símbolo 5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 689,
+						"h": 838
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 689,
+						"h": 838
+					},
+					"frame": {
+						"x": 3285,
+						"y": 2089,
+						"w": 689,
+						"h": 838
+					}
+				},
+				{
+					"filename": "smoke20026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 89,
+						"h": 236
+					},
+					"frame": {
+						"x": 2693,
+						"y": 2458,
+						"w": 89,
+						"h": 236
+					}
+				},
+				{
+					"filename": "tentacles010066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 47,
+						"w": 46,
+						"h": 40
+					},
+					"frame": {
+						"x": 2693,
+						"y": 2696,
+						"w": 46,
+						"h": 40
+					}
+				},
+				{
+					"filename": "tentacles020070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 47,
+						"w": 46,
+						"h": 40
+					},
+					"frame": {
+						"x": 2693,
+						"y": 2696,
+						"w": 46,
+						"h": 40
+					}
+				},
+				{
+					"filename": "tentacles030062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 47,
+						"w": 46,
+						"h": 40
+					},
+					"frame": {
+						"x": 2741,
+						"y": 2696,
+						"w": 46,
+						"h": 40
+					}
+				},
+				{
+					"filename": "smoke20025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 84,
+						"h": 236
+					},
+					"frame": {
+						"x": 2784,
+						"y": 2415,
+						"w": 84,
+						"h": 236
+					}
+				},
+				{
+					"filename": "tentacles010028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 54,
+						"h": 82
+					},
+					"frame": {
+						"x": 2789,
+						"y": 2653,
+						"w": 54,
+						"h": 82
+					}
+				},
+				{
+					"filename": "tentacles020032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 54,
+						"h": 82
+					},
+					"frame": {
+						"x": 2789,
+						"y": 2653,
+						"w": 54,
+						"h": 82
+					}
+				},
+				{
+					"filename": "tentacles010055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 54,
+						"h": 82
+					},
+					"frame": {
+						"x": 2845,
+						"y": 2653,
+						"w": 54,
+						"h": 82
+					}
+				},
+				{
+					"filename": "tentacles020059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 54,
+						"h": 82
+					},
+					"frame": {
+						"x": 2845,
+						"y": 2653,
+						"w": 54,
+						"h": 82
+					}
+				},
+				{
+					"filename": "smoke20017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 83,
+						"h": 236
+					},
+					"frame": {
+						"x": 2870,
+						"y": 2415,
+						"w": 83,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Símbolo 610002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 152
+					},
+					"spriteSourceSize": {
+						"x": 356,
+						"y": 4,
+						"w": 328,
+						"h": 148
+					},
+					"frame": {
+						"x": 2955,
+						"y": 2415,
+						"w": 328,
+						"h": 148
+					}
+				},
+				{
+					"filename": "fire0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 376,
+						"h": 1125
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 34,
+						"w": 356,
+						"h": 1078
+					},
+					"frame": {
+						"x": 2848,
+						"y": 2737,
+						"w": 356,
+						"h": 1078
+					}
+				},
+				{
+					"filename": "tentacles030051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 54,
+						"h": 82
+					},
+					"frame": {
+						"x": 2901,
+						"y": 2653,
+						"w": 54,
+						"h": 82
+					}
+				},
+				{
+					"filename": "tentacles010031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 86
+					},
+					"frame": {
+						"x": 2955,
+						"y": 2565,
+						"w": 54,
+						"h": 86
+					}
+				},
+				{
+					"filename": "tentacles010032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 86
+					},
+					"frame": {
+						"x": 2955,
+						"y": 2565,
+						"w": 54,
+						"h": 86
+					}
+				},
+				{
+					"filename": "tentacles010051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 86
+					},
+					"frame": {
+						"x": 2955,
+						"y": 2565,
+						"w": 54,
+						"h": 86
+					}
+				},
+				{
+					"filename": "tentacles010052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 86
+					},
+					"frame": {
+						"x": 2955,
+						"y": 2565,
+						"w": 54,
+						"h": 86
+					}
+				},
+				{
+					"filename": "tentacles020035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 86
+					},
+					"frame": {
+						"x": 2955,
+						"y": 2565,
+						"w": 54,
+						"h": 86
+					}
+				},
+				{
+					"filename": "tentacles020036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 86
+					},
+					"frame": {
+						"x": 2955,
+						"y": 2565,
+						"w": 54,
+						"h": 86
+					}
+				},
+				{
+					"filename": "tentacles020055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 86
+					},
+					"frame": {
+						"x": 2955,
+						"y": 2565,
+						"w": 54,
+						"h": 86
+					}
+				},
+				{
+					"filename": "tentacles020056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 86
+					},
+					"frame": {
+						"x": 2955,
+						"y": 2565,
+						"w": 54,
+						"h": 86
+					}
+				},
+				{
+					"filename": "smoke20023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 76,
+						"h": 236
+					},
+					"frame": {
+						"x": 3206,
+						"y": 2565,
+						"w": 76,
+						"h": 236
+					}
+				},
+				{
+					"filename": "smoke20018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 6,
+						"w": 76,
+						"h": 235
+					},
+					"frame": {
+						"x": 3206,
+						"y": 2803,
+						"w": 76,
+						"h": 235
+					}
+				},
+				{
+					"filename": "tentacles010027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 54,
+						"h": 79
+					},
+					"frame": {
+						"x": 2957,
+						"y": 2653,
+						"w": 54,
+						"h": 79
+					}
+				},
+				{
+					"filename": "tentacles020031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 54,
+						"h": 79
+					},
+					"frame": {
+						"x": 2957,
+						"y": 2653,
+						"w": 54,
+						"h": 79
+					}
+				},
+				{
+					"filename": "tentacles030027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 86
+					},
+					"frame": {
+						"x": 3011,
+						"y": 2565,
+						"w": 54,
+						"h": 86
+					}
+				},
+				{
+					"filename": "tentacles030028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 86
+					},
+					"frame": {
+						"x": 3011,
+						"y": 2565,
+						"w": 54,
+						"h": 86
+					}
+				},
+				{
+					"filename": "tentacles030047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 86
+					},
+					"frame": {
+						"x": 3011,
+						"y": 2565,
+						"w": 54,
+						"h": 86
+					}
+				},
+				{
+					"filename": "tentacles030048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 86
+					},
+					"frame": {
+						"x": 3011,
+						"y": 2565,
+						"w": 54,
+						"h": 86
+					}
+				},
+				{
+					"filename": "tentacles030023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 54,
+						"h": 79
+					},
+					"frame": {
+						"x": 3013,
+						"y": 2653,
+						"w": 54,
+						"h": 79
 					}
 				},
 				{
@@ -1431,10 +5883,220 @@
 						"h": 84
 					},
 					"frame": {
-						"x": 3937,
-						"y": 2691,
+						"x": 3067,
+						"y": 2565,
 						"w": 71,
 						"h": 84
+					}
+				},
+				{
+					"filename": "tentacles030052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 54,
+						"h": 79
+					},
+					"frame": {
+						"x": 3069,
+						"y": 2651,
+						"w": 54,
+						"h": 79
+					}
+				},
+				{
+					"filename": "Symbol 263",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 75,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 74
+					},
+					"frame": {
+						"x": 3125,
+						"y": 2651,
+						"w": 75,
+						"h": 74
+					}
+				},
+				{
+					"filename": "tentacles010056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 54,
+						"h": 78
+					},
+					"frame": {
+						"x": 3140,
+						"y": 2565,
+						"w": 54,
+						"h": 78
+					}
+				},
+				{
+					"filename": "tentacles020060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 54,
+						"h": 78
+					},
+					"frame": {
+						"x": 3140,
+						"y": 2565,
+						"w": 54,
+						"h": 78
+					}
+				},
+				{
+					"filename": "smoke20020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 5,
+						"w": 81,
+						"h": 236
+					},
+					"frame": {
+						"x": 2851,
+						"y": 3817,
+						"w": 81,
+						"h": 236
+					}
+				},
+				{
+					"filename": "smoke20024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 81,
+						"h": 236
+					},
+					"frame": {
+						"x": 2934,
+						"y": 3817,
+						"w": 81,
+						"h": 236
+					}
+				},
+				{
+					"filename": "smoke20022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 5,
+						"w": 75,
+						"h": 236
+					},
+					"frame": {
+						"x": 3017,
+						"y": 3817,
+						"w": 75,
+						"h": 236
+					}
+				},
+				{
+					"filename": "smoke20015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 6,
+						"w": 82,
+						"h": 235
+					},
+					"frame": {
+						"x": 3094,
+						"y": 3817,
+						"w": 82,
+						"h": 235
+					}
+				},
+				{
+					"filename": "smoke20016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 83,
+						"h": 234
+					},
+					"frame": {
+						"x": 3178,
+						"y": 3817,
+						"w": 83,
+						"h": 234
+					}
+				},
+				{
+					"filename": "fire0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 376,
+						"h": 1125
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 42,
+						"w": 351,
+						"h": 1070
+					},
+					"frame": {
+						"x": 3284,
+						"y": 2929,
+						"w": 351,
+						"h": 1070
 					}
 				},
 				{
@@ -1452,8 +6114,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3875,
-						"y": 3390,
+						"x": 3263,
+						"y": 4001,
 						"w": 88,
 						"h": 87
 					}
@@ -1473,8 +6135,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3875,
-						"y": 3390,
+						"x": 3263,
+						"y": 4001,
 						"w": 88,
 						"h": 87
 					}
@@ -1494,8 +6156,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3875,
-						"y": 3390,
+						"x": 3263,
+						"y": 4001,
 						"w": 88,
 						"h": 87
 					}
@@ -1515,8 +6177,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3965,
-						"y": 3390,
+						"x": 3353,
+						"y": 4001,
 						"w": 84,
 						"h": 87
 					}
@@ -1536,8 +6198,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3965,
-						"y": 3390,
+						"x": 3353,
+						"y": 4001,
 						"w": 84,
 						"h": 87
 					}
@@ -1557,8 +6219,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3965,
-						"y": 3390,
+						"x": 3353,
+						"y": 4001,
 						"w": 84,
 						"h": 87
 					}
@@ -1578,8 +6240,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3472,
-						"y": 3368,
+						"x": 3439,
+						"y": 4001,
 						"w": 84,
 						"h": 87
 					}
@@ -1599,8 +6261,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3472,
-						"y": 3368,
+						"x": 3439,
+						"y": 4001,
 						"w": 84,
 						"h": 87
 					}
@@ -1620,8 +6282,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3472,
-						"y": 3368,
+						"x": 3439,
+						"y": 4001,
 						"w": 84,
 						"h": 87
 					}
@@ -1641,8 +6303,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3558,
-						"y": 3368,
+						"x": 3525,
+						"y": 4001,
 						"w": 84,
 						"h": 87
 					}
@@ -1662,8 +6324,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3558,
-						"y": 3368,
+						"x": 3525,
+						"y": 4001,
 						"w": 84,
 						"h": 87
 					}
@@ -1683,93 +6345,9 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3558,
-						"y": 3368,
+						"x": 3525,
+						"y": 4001,
 						"w": 84,
-						"h": 87
-					}
-				},
-				{
-					"filename": "back",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 67,
-						"h": 43
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 67,
-						"h": 43
-					},
-					"frame": {
-						"x": 3644,
-						"y": 3456,
-						"w": 67,
-						"h": 43
-					}
-				},
-				{
-					"filename": "glow",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 67,
-						"h": 43
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 67,
-						"h": 43
-					},
-					"frame": {
-						"x": 3644,
-						"y": 3456,
-						"w": 67,
-						"h": 43
-					}
-				},
-				{
-					"filename": "front",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 67,
-						"h": 56
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 67,
-						"h": 56
-					},
-					"frame": {
-						"x": 3567,
-						"y": 1318,
-						"w": 67,
-						"h": 56
-					}
-				},
-				{
-					"filename": "Símbolo 21",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 76,
-						"h": 87
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 76,
-						"h": 87
-					},
-					"frame": {
-						"x": 3979,
-						"y": 2777,
-						"w": 76,
 						"h": 87
 					}
 				},
@@ -1788,8 +6366,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3979,
-						"y": 2866,
+						"x": 3611,
+						"y": 4001,
 						"w": 84,
 						"h": 87
 					}
@@ -1809,8 +6387,8 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3979,
-						"y": 2866,
+						"x": 3611,
+						"y": 4001,
 						"w": 84,
 						"h": 87
 					}
@@ -1830,451 +6408,987 @@
 						"h": 87
 					},
 					"frame": {
-						"x": 3979,
-						"y": 2866,
+						"x": 3611,
+						"y": 4001,
 						"w": 84,
 						"h": 87
 					}
 				},
 				{
-					"filename": "Símbolo 71",
+					"filename": "tentacles010039",
 					"rotated": false,
-					"trimmed": false,
+					"trimmed": true,
 					"sourceSize": {
-						"w": 63,
-						"h": 51
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 63,
-						"h": 51
+						"w": 54,
+						"h": 87
 					},
 					"frame": {
-						"x": 4021,
-						"y": 1382,
-						"w": 63,
-						"h": 51
+						"x": 3206,
+						"y": 3040,
+						"w": 54,
+						"h": 87
 					}
 				},
 				{
-					"filename": "Símbolo 74",
+					"filename": "tentacles010040",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 60,
-						"h": 35
-					},
-					"spriteSourceSize": {
-						"x": 1,
-						"y": 0,
-						"w": 59,
-						"h": 35
-					},
-					"frame": {
-						"x": 2676,
-						"y": 3099,
-						"w": 59,
-						"h": 35
-					}
-				},
-				{
-					"filename": "Symbol 234",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 75,
-						"h": 77
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 75,
-						"h": 77
+						"w": 54,
+						"h": 87
 					},
 					"frame": {
-						"x": 2996,
-						"y": 3413,
-						"w": 75,
-						"h": 77
+						"x": 3206,
+						"y": 3040,
+						"w": 54,
+						"h": 87
 					}
 				},
 				{
-					"filename": "arrow",
+					"filename": "tentacles010043",
 					"rotated": false,
-					"trimmed": false,
+					"trimmed": true,
 					"sourceSize": {
-						"w": 75,
-						"h": 77
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 75,
-						"h": 77
+						"w": 54,
+						"h": 87
 					},
 					"frame": {
-						"x": 3073,
-						"y": 3413,
-						"w": 75,
-						"h": 77
+						"x": 3206,
+						"y": 3040,
+						"w": 54,
+						"h": 87
 					}
 				},
 				{
-					"filename": "Symbol 263",
+					"filename": "tentacles010044",
 					"rotated": false,
-					"trimmed": false,
+					"trimmed": true,
 					"sourceSize": {
-						"w": 75,
-						"h": 74
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 75,
-						"h": 74
+						"w": 54,
+						"h": 87
 					},
 					"frame": {
-						"x": 3150,
-						"y": 3413,
-						"w": 75,
-						"h": 74
+						"x": 3206,
+						"y": 3040,
+						"w": 54,
+						"h": 87
 					}
 				},
 				{
-					"filename": "fire0010",
+					"filename": "tentacles020043",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 11,
-						"h": 34
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
-						"x": 2,
+						"x": 0,
 						"y": 0,
-						"w": 8,
-						"h": 34
+						"w": 54,
+						"h": 87
 					},
 					"frame": {
-						"x": 2996,
-						"y": 3306,
-						"w": 8,
-						"h": 34
+						"x": 3206,
+						"y": 3040,
+						"w": 54,
+						"h": 87
 					}
 				},
 				{
-					"filename": "fire0011",
+					"filename": "tentacles020044",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 11,
-						"h": 34
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
-						"x": 2,
+						"x": 0,
 						"y": 0,
-						"w": 8,
-						"h": 34
+						"w": 54,
+						"h": 87
 					},
 					"frame": {
-						"x": 2996,
-						"y": 3306,
-						"w": 8,
-						"h": 34
+						"x": 3206,
+						"y": 3040,
+						"w": 54,
+						"h": 87
 					}
 				},
 				{
-					"filename": "fire0012",
+					"filename": "tentacles020047",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 11,
-						"h": 34
+						"w": 55,
+						"h": 87
 					},
 					"spriteSourceSize": {
-						"x": 2,
+						"x": 0,
 						"y": 0,
-						"w": 8,
-						"h": 34
+						"w": 54,
+						"h": 87
 					},
 					"frame": {
-						"x": 2996,
-						"y": 3306,
-						"w": 8,
-						"h": 34
+						"x": 3206,
+						"y": 3040,
+						"w": 54,
+						"h": 87
 					}
 				},
+				{
+					"filename": "tentacles020048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3040,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3129,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3129,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3129,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3129,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3218,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3218,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3218,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3218,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3307,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3307,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3307,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3307,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3396,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3396,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3396,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles030040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3396,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tentacles010024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 54,
+						"h": 70
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3485,
+						"w": 54,
+						"h": 70
+					}
+				},
+				{
+					"filename": "tentacles020028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 54,
+						"h": 70
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3485,
+						"w": 54,
+						"h": 70
+					}
+				},
+				{
+					"filename": "tentacles030020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 54,
+						"h": 70
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3557,
+						"w": 54,
+						"h": 70
+					}
+				},
+				{
+					"filename": "tentacles030055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 54,
+						"h": 70
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3629,
+						"w": 54,
+						"h": 70
+					}
+				},
+				{
+					"filename": "tentacles010057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 53,
+						"h": 76
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3701,
+						"w": 53,
+						"h": 76
+					}
+				},
+				{
+					"filename": "tentacles020061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 53,
+						"h": 76
+					},
+					"frame": {
+						"x": 3206,
+						"y": 3701,
+						"w": 53,
+						"h": 76
+					}
+				},
+				{
+					"filename": "Símbolo 96",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 309,
+						"h": 232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 309,
+						"h": 232
+					},
+					"frame": {
+						"x": 3637,
+						"y": 2929,
+						"w": 309,
+						"h": 232
+					}
+				},
+				{
+					"filename": "tentacles010018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 42,
+						"w": 47,
+						"h": 45
+					},
+					"frame": {
+						"x": 3948,
+						"y": 2929,
+						"w": 47,
+						"h": 45
+					}
+				},
+				{
+					"filename": "tentacles020022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 42,
+						"w": 47,
+						"h": 45
+					},
+					"frame": {
+						"x": 3948,
+						"y": 2929,
+						"w": 47,
+						"h": 45
+					}
+				},
+				{
+					"filename": "tentacles030014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 42,
+						"w": 47,
+						"h": 45
+					},
+					"frame": {
+						"x": 3948,
+						"y": 2976,
+						"w": 47,
+						"h": 45
+					}
+				},
+				{
+					"filename": "tentacles030061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 43,
+						"w": 46,
+						"h": 44
+					},
+					"frame": {
+						"x": 3948,
+						"y": 3023,
+						"w": 46,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Sprite 193",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 106
+					},
+					"frame": {
+						"x": 3697,
+						"y": 3163,
+						"w": 147,
+						"h": 106
+					}
+				},
+				{
+					"filename": "tentacles030053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 55,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 53,
+						"h": 76
+					},
+					"frame": {
+						"x": 3637,
+						"y": 3163,
+						"w": 53,
+						"h": 76
+					}
+				},
+				{
+					"filename": "pizzadoor-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 138,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 138,
+						"h": 140
+					},
+					"frame": {
+						"x": 3846,
+						"y": 3163,
+						"w": 138,
+						"h": 140
+					}
+				},
+				{
+					"filename": "pizzadoor-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 138,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 138,
+						"h": 140
+					},
+					"frame": {
+						"x": 3846,
+						"y": 3163,
+						"w": 138,
+						"h": 140
+					}
+				},
+				{
+					"filename": "shopdoor-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 112
+					},
+					"frame": {
+						"x": 3697,
+						"y": 3271,
+						"w": 126,
+						"h": 112
+					}
+				},
+				{
+					"filename": "shopdoor-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 112
+					},
+					"frame": {
+						"x": 3697,
+						"y": 3271,
+						"w": 126,
+						"h": 112
+					}
+				},
+				{
+					"filename": "Símbolo 99",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 125,
+						"h": 103
+					},
+					"frame": {
+						"x": 3825,
+						"y": 3305,
+						"w": 125,
+						"h": 103
+					}
+				},
+				{
+					"filename": "pizzadoor",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 128
+					},
+					"frame": {
+						"x": 3697,
+						"y": 3385,
+						"w": 95,
+						"h": 128
+					}
+				},
+				{
+					"filename": "shopdoor",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 0,
+						"w": 90,
+						"h": 112
+					},
+					"frame": {
+						"x": 3794,
+						"y": 3410,
+						"w": 90,
+						"h": 112
+					}
+				},
+				{
+					"filename": "smoke20010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 9,
+						"w": 89,
+						"h": 232
+					},
+					"frame": {
+						"x": 3697,
+						"y": 3515,
+						"w": 89,
+						"h": 232
+					}
+				}
+			]
+		},
+		{
+			"image": "plaza-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1068,
+				"h": 3176
+			},
+			"scale": 1,
+			"frames": [
 				{
 					"filename": "fire0001",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 11,
-						"h": 34
+						"w": 376,
+						"h": 1125
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 2,
-						"w": 10,
-						"h": 32
+						"x": 9,
+						"y": 44,
+						"w": 353,
+						"h": 1068
 					},
 					"frame": {
-						"x": 4078,
+						"x": 1,
 						"y": 1,
-						"w": 10,
-						"h": 32
-					}
-				},
-				{
-					"filename": "fire0002",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 11,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 2,
-						"w": 10,
-						"h": 32
-					},
-					"frame": {
-						"x": 4078,
-						"y": 1,
-						"w": 10,
-						"h": 32
-					}
-				},
-				{
-					"filename": "fire0003",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 11,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 2,
-						"w": 10,
-						"h": 32
-					},
-					"frame": {
-						"x": 4078,
-						"y": 1,
-						"w": 10,
-						"h": 32
-					}
-				},
-				{
-					"filename": "fire0019",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 11,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 1,
-						"y": 5,
-						"w": 10,
-						"h": 29
-					},
-					"frame": {
-						"x": 4050,
-						"y": 467,
-						"w": 10,
-						"h": 29
-					}
-				},
-				{
-					"filename": "fire0020",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 11,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 1,
-						"y": 5,
-						"w": 10,
-						"h": 29
-					},
-					"frame": {
-						"x": 4050,
-						"y": 467,
-						"w": 10,
-						"h": 29
-					}
-				},
-				{
-					"filename": "fire0021",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 11,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 1,
-						"y": 5,
-						"w": 10,
-						"h": 29
-					},
-					"frame": {
-						"x": 4050,
-						"y": 467,
-						"w": 10,
-						"h": 29
-					}
-				},
-				{
-					"filename": "fire0004",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 11,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 1,
-						"y": 7,
-						"w": 10,
-						"h": 27
-					},
-					"frame": {
-						"x": 1775,
-						"y": 2761,
-						"w": 10,
-						"h": 27
-					}
-				},
-				{
-					"filename": "fire0005",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 11,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 1,
-						"y": 7,
-						"w": 10,
-						"h": 27
-					},
-					"frame": {
-						"x": 1775,
-						"y": 2761,
-						"w": 10,
-						"h": 27
-					}
-				},
-				{
-					"filename": "fire0006",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 11,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 1,
-						"y": 7,
-						"w": 10,
-						"h": 27
-					},
-					"frame": {
-						"x": 1775,
-						"y": 2761,
-						"w": 10,
-						"h": 27
-					}
-				},
-				{
-					"filename": "fire0016",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 11,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 8,
-						"w": 10,
-						"h": 26
-					},
-					"frame": {
-						"x": 4076,
-						"y": 2420,
-						"w": 10,
-						"h": 26
-					}
-				},
-				{
-					"filename": "fire0017",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 11,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 8,
-						"w": 10,
-						"h": 26
-					},
-					"frame": {
-						"x": 4076,
-						"y": 2420,
-						"w": 10,
-						"h": 26
-					}
-				},
-				{
-					"filename": "fire0018",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 11,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 8,
-						"w": 10,
-						"h": 26
-					},
-					"frame": {
-						"x": 4076,
-						"y": 2420,
-						"w": 10,
-						"h": 26
-					}
-				},
-				{
-					"filename": "fire0007",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 11,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 1,
-						"y": 9,
-						"w": 10,
-						"h": 25
-					},
-					"frame": {
-						"x": 734,
-						"y": 3462,
-						"w": 10,
-						"h": 25
+						"w": 353,
+						"h": 1068
 					}
 				},
 				{
@@ -2282,104 +7396,146 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 11,
-						"h": 34
+						"w": 376,
+						"h": 1125
 					},
 					"spriteSourceSize": {
+						"x": 8,
+						"y": 47,
+						"w": 354,
+						"h": 1065
+					},
+					"frame": {
+						"x": 356,
+						"y": 1,
+						"w": 354,
+						"h": 1065
+					}
+				},
+				{
+					"filename": "fire0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 376,
+						"h": 1125
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 59,
+						"w": 355,
+						"h": 1053
+					},
+					"frame": {
+						"x": 712,
+						"y": 1,
+						"w": 355,
+						"h": 1053
+					}
+				},
+				{
+					"filename": "fire0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 376,
+						"h": 1125
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 54,
+						"w": 353,
+						"h": 1058
+					},
+					"frame": {
 						"x": 1,
-						"y": 9,
-						"w": 10,
-						"h": 25
-					},
-					"frame": {
-						"x": 734,
-						"y": 3462,
-						"w": 10,
-						"h": 25
+						"y": 1071,
+						"w": 353,
+						"h": 1058
 					}
 				},
 				{
-					"filename": "fire0009",
+					"filename": "fire0016",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 11,
-						"h": 34
+						"w": 376,
+						"h": 1125
 					},
 					"spriteSourceSize": {
+						"x": 9,
+						"y": 68,
+						"w": 353,
+						"h": 1044
+					},
+					"frame": {
 						"x": 1,
-						"y": 9,
-						"w": 10,
-						"h": 25
-					},
-					"frame": {
-						"x": 734,
-						"y": 3462,
-						"w": 10,
-						"h": 25
+						"y": 2131,
+						"w": 353,
+						"h": 1044
 					}
 				},
 				{
-					"filename": "Símbolo 610003",
+					"filename": "fire0019",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 684,
-						"h": 152
+						"w": 376,
+						"h": 1125
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 17,
-						"h": 17
+						"x": 6,
+						"y": 56,
+						"w": 356,
+						"h": 1056
 					},
 					"frame": {
-						"x": 3653,
-						"y": 3156,
-						"w": 17,
-						"h": 17
+						"x": 356,
+						"y": 1068,
+						"w": 356,
+						"h": 1056
 					}
 				},
 				{
-					"filename": "fire0013",
+					"filename": "fire0007",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 11,
-						"h": 34
+						"w": 376,
+						"h": 1125
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 10,
-						"w": 10,
-						"h": 24
+						"x": 9,
+						"y": 59,
+						"w": 353,
+						"h": 1053
 					},
 					"frame": {
-						"x": 1737,
-						"y": 2903,
-						"w": 10,
-						"h": 24
+						"x": 714,
+						"y": 1056,
+						"w": 353,
+						"h": 1053
 					}
 				},
 				{
-					"filename": "fire0014",
+					"filename": "fire0017",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 11,
-						"h": 34
+						"w": 376,
+						"h": 1125
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 10,
-						"w": 10,
-						"h": 24
+						"x": 10,
+						"y": 63,
+						"w": 352,
+						"h": 1049
 					},
 					"frame": {
-						"x": 1737,
-						"y": 2903,
-						"w": 10,
-						"h": 24
+						"x": 356,
+						"y": 2126,
+						"w": 352,
+						"h": 1049
 					}
 				},
 				{
@@ -2387,20 +7543,20 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 11,
-						"h": 34
+						"w": 376,
+						"h": 1125
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 10,
-						"w": 10,
-						"h": 24
+						"x": 6,
+						"y": 72,
+						"w": 356,
+						"h": 1040
 					},
 					"frame": {
-						"x": 1737,
-						"y": 2903,
-						"w": 10,
-						"h": 24
+						"x": 710,
+						"y": 2126,
+						"w": 356,
+						"h": 1040
 					}
 				}
 			]
@@ -2409,6 +7565,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:f012019403812cc3da988574dc09372d:699d83436054aea909e96cdf6997e26c:936847ada44cbd75a75d8a0e6e0f2352$"
+		"smartupdate": "$TexturePacker:SmartUpdate:a6bde4ecfa1dd96b33386c2186bd513c:3406d44a6d6e2f2022cb6177d35d5430:85a9aa636f6c0aabaacfd4294f4b40f2$"
 	}
 }
