@@ -10,7 +10,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "shovelling0009.png",
+					"filename": "shovelling0009",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -31,7 +31,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0010.png",
+					"filename": "shovelling0010",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -52,7 +52,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0007.png",
+					"filename": "shovelling0007",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -73,7 +73,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0008.png",
+					"filename": "shovelling0008",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -94,7 +94,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0005.png",
+					"filename": "shovelling0005",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -115,7 +115,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0006.png",
+					"filename": "shovelling0006",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -136,7 +136,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0008.png",
+					"filename": "pizzatron0008",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -157,7 +157,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0003.png",
+					"filename": "shovelling0003",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -178,7 +178,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0004.png",
+					"filename": "shovelling0004",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -199,7 +199,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0007.png",
+					"filename": "pizzatron0007",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -220,7 +220,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0001.png",
+					"filename": "shovelling0001",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -241,7 +241,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0002.png",
+					"filename": "shovelling0002",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -262,7 +262,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0015.png",
+					"filename": "shovelling0015",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -283,7 +283,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0016.png",
+					"filename": "shovelling0016",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -304,7 +304,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0013.png",
+					"filename": "shovelling0013",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -325,7 +325,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0014.png",
+					"filename": "shovelling0014",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -346,7 +346,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0009.png",
+					"filename": "pizzatron0009",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -367,7 +367,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0010.png",
+					"filename": "pizzatron0010",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -388,7 +388,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0028.png",
+					"filename": "pizzatron0028",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -409,7 +409,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0011.png",
+					"filename": "pizzatron0011",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -430,7 +430,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0012.png",
+					"filename": "pizzatron0012",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -451,7 +451,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0030.png",
+					"filename": "pizzatron0030",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -472,7 +472,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0013.png",
+					"filename": "pizzatron0013",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -493,7 +493,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0014.png",
+					"filename": "pizzatron0014",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -514,7 +514,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0040.png",
+					"filename": "pizzatron0040",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -535,7 +535,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0041.png",
+					"filename": "pizzatron0041",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -556,7 +556,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0044.png",
+					"filename": "pizzatron0044",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -577,7 +577,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0045.png",
+					"filename": "pizzatron0045",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -598,7 +598,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0046.png",
+					"filename": "pizzatron0046",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -619,7 +619,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0047.png",
+					"filename": "pizzatron0047",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -640,7 +640,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0048.png",
+					"filename": "pizzatron0048",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -661,7 +661,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0049.png",
+					"filename": "pizzatron0049",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -682,7 +682,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0050.png",
+					"filename": "pizzatron0050",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -703,7 +703,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0051.png",
+					"filename": "pizzatron0051",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -724,7 +724,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0052.png",
+					"filename": "pizzatron0052",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -745,7 +745,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0053.png",
+					"filename": "pizzatron0053",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -766,7 +766,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0054.png",
+					"filename": "pizzatron0054",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -787,7 +787,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0055.png",
+					"filename": "pizzatron0055",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -808,7 +808,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0056.png",
+					"filename": "pizzatron0056",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -829,7 +829,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0057.png",
+					"filename": "pizzatron0057",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -850,7 +850,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0058.png",
+					"filename": "pizzatron0058",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -871,7 +871,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0059.png",
+					"filename": "pizzatron0059",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -892,7 +892,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0060.png",
+					"filename": "pizzatron0060",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -913,7 +913,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0031.png",
+					"filename": "pizzatron0031",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -934,7 +934,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0032.png",
+					"filename": "pizzatron0032",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -955,7 +955,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0033.png",
+					"filename": "pizzatron0033",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -976,7 +976,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0034.png",
+					"filename": "pizzatron0034",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -997,7 +997,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0035.png",
+					"filename": "pizzatron0035",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1018,7 +1018,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0036.png",
+					"filename": "pizzatron0036",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1039,7 +1039,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0037.png",
+					"filename": "pizzatron0037",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1060,7 +1060,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0065.png",
+					"filename": "pizzatron0065",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1081,7 +1081,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0066.png",
+					"filename": "pizzatron0066",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1102,7 +1102,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0029.png",
+					"filename": "pizzatron0029",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1123,7 +1123,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0011.png",
+					"filename": "shovelling0011",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1144,7 +1144,7 @@
 					}
 				},
 				{
-					"filename": "shovelling0012.png",
+					"filename": "shovelling0012",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1165,7 +1165,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0042.png",
+					"filename": "pizzatron0042",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1186,7 +1186,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0043.png",
+					"filename": "pizzatron0043",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1207,7 +1207,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0063.png",
+					"filename": "pizzatron0063",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1228,7 +1228,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0064.png",
+					"filename": "pizzatron0064",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1249,7 +1249,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0006.png",
+					"filename": "pizzatron0006",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1270,7 +1270,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0038.png",
+					"filename": "pizzatron0038",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1291,7 +1291,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0039.png",
+					"filename": "pizzatron0039",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1323,7 +1323,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "cartSurfer0037.png",
+					"filename": "cartSurfer0037",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1344,7 +1344,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0061.png",
+					"filename": "pizzatron0061",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1365,7 +1365,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0062.png",
+					"filename": "pizzatron0062",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1386,7 +1386,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0005.png",
+					"filename": "pizzatron0005",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1407,7 +1407,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0027.png",
+					"filename": "pizzatron0027",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1428,7 +1428,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0042.png",
+					"filename": "cartSurfer0042",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1449,7 +1449,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0041.png",
+					"filename": "cartSurfer0041",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1470,7 +1470,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0038.png",
+					"filename": "cartSurfer0038",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1491,7 +1491,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0048.png",
+					"filename": "cartSurfer0048",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1512,7 +1512,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0047.png",
+					"filename": "cartSurfer0047",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1533,7 +1533,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0046.png",
+					"filename": "cartSurfer0046",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1554,7 +1554,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0015.png",
+					"filename": "pizzatron0015",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1575,7 +1575,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0016.png",
+					"filename": "pizzatron0016",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1596,7 +1596,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0039.png",
+					"filename": "cartSurfer0039",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1617,7 +1617,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0045.png",
+					"filename": "cartSurfer0045",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1638,7 +1638,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0040.png",
+					"filename": "cartSurfer0040",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1659,7 +1659,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0017.png",
+					"filename": "pizzatron0017",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1680,7 +1680,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0018.png",
+					"filename": "pizzatron0018",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1701,7 +1701,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0043.png",
+					"filename": "cartSurfer0043",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1722,7 +1722,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0049.png",
+					"filename": "cartSurfer0049",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1743,7 +1743,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0044.png",
+					"filename": "cartSurfer0044",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1764,7 +1764,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0003.png",
+					"filename": "pizzatron0003",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1785,7 +1785,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0004.png",
+					"filename": "pizzatron0004",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1806,7 +1806,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0025.png",
+					"filename": "pizzatron0025",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1827,7 +1827,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0026.png",
+					"filename": "pizzatron0026",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1848,7 +1848,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0050.png",
+					"filename": "cartSurfer0050",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1869,7 +1869,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0051.png",
+					"filename": "cartSurfer0051",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1890,7 +1890,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0054.png",
+					"filename": "cartSurfer0054",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1911,7 +1911,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0003.png",
+					"filename": "cartSurfer0003",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1932,7 +1932,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0006.png",
+					"filename": "cartSurfer0006",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1953,7 +1953,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0009.png",
+					"filename": "cartSurfer0009",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1974,7 +1974,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0012.png",
+					"filename": "cartSurfer0012",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1995,7 +1995,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0015.png",
+					"filename": "cartSurfer0015",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2016,7 +2016,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0018.png",
+					"filename": "cartSurfer0018",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2037,7 +2037,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0021.png",
+					"filename": "cartSurfer0021",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2058,7 +2058,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0024.png",
+					"filename": "cartSurfer0024",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2079,7 +2079,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0027.png",
+					"filename": "cartSurfer0027",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2100,7 +2100,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0030.png",
+					"filename": "cartSurfer0030",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2121,7 +2121,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0035.png",
+					"filename": "cartSurfer0035",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2142,7 +2142,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0036.png",
+					"filename": "cartSurfer0036",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2163,7 +2163,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0052.png",
+					"filename": "cartSurfer0052",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2184,7 +2184,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0053.png",
+					"filename": "cartSurfer0053",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2205,7 +2205,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0001.png",
+					"filename": "cartSurfer0001",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2226,7 +2226,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0004.png",
+					"filename": "cartSurfer0004",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2247,7 +2247,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0007.png",
+					"filename": "cartSurfer0007",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2268,7 +2268,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0010.png",
+					"filename": "cartSurfer0010",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2289,7 +2289,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0013.png",
+					"filename": "cartSurfer0013",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2310,7 +2310,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0016.png",
+					"filename": "cartSurfer0016",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2331,7 +2331,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0019.png",
+					"filename": "cartSurfer0019",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2352,7 +2352,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0022.png",
+					"filename": "cartSurfer0022",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2373,7 +2373,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0025.png",
+					"filename": "cartSurfer0025",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2394,7 +2394,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0028.png",
+					"filename": "cartSurfer0028",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2415,7 +2415,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0031.png",
+					"filename": "cartSurfer0031",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2436,7 +2436,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0021.png",
+					"filename": "pizzatron0021",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2457,7 +2457,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0022.png",
+					"filename": "pizzatron0022",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2478,7 +2478,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0071.png",
+					"filename": "pizzatron0071",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2499,7 +2499,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0072.png",
+					"filename": "pizzatron0072",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2520,7 +2520,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0019.png",
+					"filename": "pizzatron0019",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2541,7 +2541,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0020.png",
+					"filename": "pizzatron0020",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2562,7 +2562,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0069.png",
+					"filename": "pizzatron0069",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2583,7 +2583,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0070.png",
+					"filename": "pizzatron0070",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2604,7 +2604,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0002.png",
+					"filename": "cartSurfer0002",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2625,7 +2625,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0005.png",
+					"filename": "cartSurfer0005",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2646,7 +2646,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0008.png",
+					"filename": "cartSurfer0008",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2667,7 +2667,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0011.png",
+					"filename": "cartSurfer0011",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2688,7 +2688,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0014.png",
+					"filename": "cartSurfer0014",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2709,7 +2709,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0017.png",
+					"filename": "cartSurfer0017",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2730,7 +2730,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0020.png",
+					"filename": "cartSurfer0020",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2751,7 +2751,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0023.png",
+					"filename": "cartSurfer0023",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2772,7 +2772,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0026.png",
+					"filename": "cartSurfer0026",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2793,7 +2793,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0029.png",
+					"filename": "cartSurfer0029",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2814,7 +2814,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0032.png",
+					"filename": "cartSurfer0032",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2835,7 +2835,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0033.png",
+					"filename": "cartSurfer0033",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2856,7 +2856,7 @@
 					}
 				},
 				{
-					"filename": "cartSurfer0034.png",
+					"filename": "cartSurfer0034",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2877,7 +2877,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0067.png",
+					"filename": "pizzatron0067",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2898,7 +2898,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0068.png",
+					"filename": "pizzatron0068",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2919,7 +2919,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0001.png",
+					"filename": "pizzatron0001",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2940,7 +2940,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0002.png",
+					"filename": "pizzatron0002",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2961,7 +2961,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0023.png",
+					"filename": "pizzatron0023",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2982,7 +2982,7 @@
 					}
 				},
 				{
-					"filename": "pizzatron0024.png",
+					"filename": "pizzatron0024",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
