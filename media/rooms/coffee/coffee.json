@@ -1,243 +1,54 @@
 {
 	"textures": [
 		{
-			"image": "coffee.png",
+			"image": "coffee.webp",
 			"format": "RGBA8888",
 			"size": {
-				"w": 3195,
-				"h": 2499
+				"w": 3839,
+				"h": 1802
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "Sprite 764",
+					"filename": "Sprite 763",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 2088,
-						"h": 1427
+						"w": 2082,
+						"h": 1304
 					},
 					"spriteSourceSize": {
 						"x": 5,
-						"y": 4,
-						"w": 2080,
-						"h": 1399
+						"y": 6,
+						"w": 2074,
+						"h": 1293
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 2080,
-						"h": 1399
+						"w": 2074,
+						"h": 1293
 					}
 				},
 				{
-					"filename": "bg",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 1662,
-						"h": 1096
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 1662,
-						"h": 1096
-					},
-					"frame": {
-						"x": 1,
-						"y": 1402,
-						"w": 1662,
-						"h": 1096
-					}
-				},
-				{
-					"filename": "template",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 1529,
-						"h": 973
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 1529,
-						"h": 973
-					},
-					"frame": {
-						"x": 1665,
-						"y": 1402,
-						"w": 1529,
-						"h": 973
-					}
-				},
-				{
-					"filename": "Symbol 211",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 103,
-						"h": 105
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 103,
-						"h": 105
-					},
-					"frame": {
-						"x": 1665,
-						"y": 2377,
-						"w": 103,
-						"h": 105
-					}
-				},
-				{
-					"filename": "Symbol 175",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 84,
-						"h": 84
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 84,
-						"h": 84
-					},
-					"frame": {
-						"x": 1770,
-						"y": 2377,
-						"w": 84,
-						"h": 84
-					}
-				},
-				{
-					"filename": "Symbol 179",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 132,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 132,
-						"h": 83
-					},
-					"frame": {
-						"x": 1856,
-						"y": 2377,
-						"w": 132,
-						"h": 83
-					}
-				},
-				{
-					"filename": "Symbol 200",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 44,
-						"h": 68
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 44,
-						"h": 68
-					},
-					"frame": {
-						"x": 1990,
-						"y": 2377,
-						"w": 44,
-						"h": 68
-					}
-				},
-				{
-					"filename": "Symbol 202",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 52,
-						"h": 49
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 52,
-						"h": 49
-					},
-					"frame": {
-						"x": 1990,
-						"y": 2447,
-						"w": 52,
-						"h": 49
-					}
-				},
-				{
-					"filename": "Symbol 198",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 385,
-						"h": 346
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 385,
-						"h": 346
-					},
-					"frame": {
-						"x": 2083,
-						"y": 1,
-						"w": 385,
-						"h": 346
-					}
-				},
-				{
-					"filename": "lights",
+					"filename": "Symbol 105",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 334,
-						"h": 387
+						"w": 1767,
+						"h": 1090
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 334,
-						"h": 375
+						"x": 3,
+						"y": 3,
+						"w": 1761,
+						"h": 1087
 					},
 					"frame": {
-						"x": 2470,
+						"x": 2077,
 						"y": 1,
-						"w": 334,
-						"h": 375
-					}
-				},
-				{
-					"filename": "Symbol 213",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 314,
-						"h": 343
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 314,
-						"h": 343
-					},
-					"frame": {
-						"x": 2083,
-						"y": 349,
-						"w": 314,
-						"h": 343
+						"w": 1761,
+						"h": 1087
 					}
 				},
 				{
@@ -255,94 +66,31 @@
 						"h": 652
 					},
 					"frame": {
-						"x": 2083,
-						"y": 694,
+						"x": 2077,
+						"y": 1090,
 						"w": 183,
 						"h": 652
 					}
 				},
 				{
-					"filename": "Símbolo 4",
+					"filename": "Symbol 202",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 286,
-						"h": 252
+						"w": 52,
+						"h": 49
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 286,
-						"h": 252
+						"w": 52,
+						"h": 49
 					},
 					"frame": {
-						"x": 2806,
-						"y": 1,
-						"w": 286,
-						"h": 252
-					}
-				},
-				{
-					"filename": "Symbol 196",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 269,
-						"h": 394
-					},
-					"spriteSourceSize": {
 						"x": 1,
-						"y": 0,
-						"w": 268,
-						"h": 394
-					},
-					"frame": {
-						"x": 2806,
-						"y": 255,
-						"w": 268,
-						"h": 394
-					}
-				},
-				{
-					"filename": "Symbol 103",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 115,
-						"h": 228
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 115,
-						"h": 228
-					},
-					"frame": {
-						"x": 3076,
-						"y": 255,
-						"w": 115,
-						"h": 228
-					}
-				},
-				{
-					"filename": "Symbol 147",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 104,
-						"h": 154
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 104,
-						"h": 154
-					},
-					"frame": {
-						"x": 3076,
-						"y": 485,
-						"w": 104,
-						"h": 154
+						"y": 1744,
+						"w": 52,
+						"h": 49
 					}
 				},
 				{
@@ -360,8 +108,8 @@
 						"h": 422
 					},
 					"frame": {
-						"x": 2399,
-						"y": 378,
+						"x": 1,
+						"y": 1296,
 						"w": 237,
 						"h": 422
 					}
@@ -381,94 +129,31 @@
 						"h": 422
 					},
 					"frame": {
-						"x": 2399,
-						"y": 378,
+						"x": 1,
+						"y": 1296,
 						"w": 237,
 						"h": 422
 					}
 				},
 				{
-					"filename": "door2-active",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 137,
-						"h": 199
-					},
-					"spriteSourceSize": {
-						"x": 8,
-						"y": 0,
-						"w": 129,
-						"h": 199
-					},
-					"frame": {
-						"x": 2268,
-						"y": 694,
-						"w": 129,
-						"h": 199
-					}
-				},
-				{
-					"filename": "door2-hover",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 137,
-						"h": 199
-					},
-					"spriteSourceSize": {
-						"x": 8,
-						"y": 0,
-						"w": 129,
-						"h": 199
-					},
-					"frame": {
-						"x": 2268,
-						"y": 694,
-						"w": 129,
-						"h": 199
-					}
-				},
-				{
-					"filename": "Symbol 173",
+					"filename": "Símbolo 15",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 148,
-						"h": 199
+						"w": 190,
+						"h": 79
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 148,
-						"h": 199
+						"w": 190,
+						"h": 79
 					},
 					"frame": {
-						"x": 2638,
-						"y": 378,
-						"w": 148,
-						"h": 199
-					}
-				},
-				{
-					"filename": "door2",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 137,
-						"h": 199
-					},
-					"spriteSourceSize": {
-						"x": 8,
-						"y": 0,
-						"w": 129,
-						"h": 199
-					},
-					"frame": {
-						"x": 2638,
-						"y": 579,
-						"w": 129,
-						"h": 199
+						"x": 55,
+						"y": 1720,
+						"w": 190,
+						"h": 79
 					}
 				},
 				{
@@ -486,52 +171,262 @@
 						"h": 422
 					},
 					"frame": {
-						"x": 2268,
-						"y": 895,
+						"x": 240,
+						"y": 1296,
 						"w": 237,
 						"h": 422
 					}
 				},
 				{
-					"filename": "Símbolo 3",
+					"filename": "Símbolo 16",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 220,
-						"h": 204
+						"w": 69,
+						"h": 77
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 220,
-						"h": 204
+						"w": 69,
+						"h": 77
 					},
 					"frame": {
-						"x": 2769,
-						"y": 651,
-						"w": 220,
-						"h": 204
+						"x": 247,
+						"y": 1720,
+						"w": 69,
+						"h": 77
 					}
 				},
 				{
-					"filename": "Symbol 178",
+					"filename": "Symbol 200",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 127,
-						"h": 179
+						"w": 44,
+						"h": 68
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 127,
-						"h": 179
+						"w": 44,
+						"h": 68
 					},
 					"frame": {
-						"x": 2638,
-						"y": 780,
-						"w": 127,
-						"h": 179
+						"x": 318,
+						"y": 1720,
+						"w": 44,
+						"h": 68
+					}
+				},
+				{
+					"filename": "Symbol 102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 521,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 518,
+						"h": 398
+					},
+					"frame": {
+						"x": 479,
+						"y": 1296,
+						"w": 518,
+						"h": 398
+					}
+				},
+				{
+					"filename": "Symbol 448",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 102
+					},
+					"frame": {
+						"x": 479,
+						"y": 1696,
+						"w": 239,
+						"h": 102
+					}
+				},
+				{
+					"filename": "Symbol 211",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 720,
+						"y": 1696,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "Símbolo 14",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 82
+					},
+					"frame": {
+						"x": 825,
+						"y": 1696,
+						"w": 231,
+						"h": 82
+					}
+				},
+				{
+					"filename": "Symbol 196",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 268,
+						"h": 394
+					},
+					"frame": {
+						"x": 999,
+						"y": 1296,
+						"w": 268,
+						"h": 394
+					}
+				},
+				{
+					"filename": "Símbolo 13",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 328,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 328,
+						"h": 107
+					},
+					"frame": {
+						"x": 1058,
+						"y": 1692,
+						"w": 328,
+						"h": 107
+					}
+				},
+				{
+					"filename": "Símbolo 12",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 704,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 704,
+						"h": 348
+					},
+					"frame": {
+						"x": 1269,
+						"y": 1296,
+						"w": 704,
+						"h": 348
+					}
+				},
+				{
+					"filename": "Symbol 147",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 143
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 143
+					},
+					"frame": {
+						"x": 1975,
+						"y": 1296,
+						"w": 96,
+						"h": 143
+					}
+				},
+				{
+					"filename": "Símbolo 18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 161,
+						"h": 146
+					},
+					"frame": {
+						"x": 1388,
+						"y": 1646,
+						"w": 161,
+						"h": 146
+					}
+				},
+				{
+					"filename": "Symbol 130",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 671,
+						"h": 518
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 671,
+						"h": 518
+					},
+					"frame": {
+						"x": 2262,
+						"y": 1090,
+						"w": 671,
+						"h": 518
 					}
 				},
 				{
@@ -549,8 +444,8 @@
 						"h": 191
 					},
 					"frame": {
-						"x": 2991,
-						"y": 651,
+						"x": 2262,
+						"y": 1610,
 						"w": 181,
 						"h": 191
 					}
@@ -570,8 +465,8 @@
 						"h": 191
 					},
 					"frame": {
-						"x": 2991,
-						"y": 844,
+						"x": 2445,
+						"y": 1610,
 						"w": 171,
 						"h": 191
 					}
@@ -591,8 +486,8 @@
 						"h": 187
 					},
 					"frame": {
-						"x": 2767,
-						"y": 857,
+						"x": 2618,
+						"y": 1610,
 						"w": 207,
 						"h": 187
 					}
@@ -612,10 +507,220 @@
 						"h": 187
 					},
 					"frame": {
-						"x": 2976,
-						"y": 1037,
+						"x": 2827,
+						"y": 1610,
 						"w": 207,
 						"h": 187
+					}
+				},
+				{
+					"filename": "Symbol 198",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 385,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 385,
+						"h": 346
+					},
+					"frame": {
+						"x": 2935,
+						"y": 1090,
+						"w": 385,
+						"h": 346
+					}
+				},
+				{
+					"filename": "Symbol 213",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 314,
+						"h": 343
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 314,
+						"h": 343
+					},
+					"frame": {
+						"x": 3036,
+						"y": 1438,
+						"w": 314,
+						"h": 343
+					}
+				},
+				{
+					"filename": "Símbolo 4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 286,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 286,
+						"h": 252
+					},
+					"frame": {
+						"x": 3322,
+						"y": 1090,
+						"w": 286,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Símbolo 3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 220,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 220,
+						"h": 204
+					},
+					"frame": {
+						"x": 3610,
+						"y": 1090,
+						"w": 220,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Símbolo 10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 204,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 204,
+						"h": 236
+					},
+					"frame": {
+						"x": 3610,
+						"y": 1296,
+						"w": 204,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Symbol 103",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 228
+					},
+					"frame": {
+						"x": 3352,
+						"y": 1534,
+						"w": 115,
+						"h": 228
+					}
+				},
+				{
+					"filename": "door2-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 137,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 129,
+						"h": 199
+					},
+					"frame": {
+						"x": 3469,
+						"y": 1344,
+						"w": 129,
+						"h": 199
+					}
+				},
+				{
+					"filename": "door2-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 137,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 129,
+						"h": 199
+					},
+					"frame": {
+						"x": 3469,
+						"y": 1344,
+						"w": 129,
+						"h": 199
+					}
+				},
+				{
+					"filename": "Symbol 173",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 199
+					},
+					"frame": {
+						"x": 3469,
+						"y": 1545,
+						"w": 148,
+						"h": 199
+					}
+				},
+				{
+					"filename": "door2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 137,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 129,
+						"h": 199
+					},
+					"frame": {
+						"x": 3619,
+						"y": 1534,
+						"w": 129,
+						"h": 199
 					}
 				}
 			]
@@ -624,6 +729,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:46473dfb6da2a01585be71c5b60803df:912c0499a62168aa784ffe5be4c22ea0:44e56e15567a8132837033e725fa9585$"
+		"smartupdate": "$TexturePacker:SmartUpdate:67f42a275ae6859b5aae972bcde4ba12:06ae4e4bbfc3617f3b7341a352445db3:51c758b31d79d690bb86a1935132891c$"
 	}
 }

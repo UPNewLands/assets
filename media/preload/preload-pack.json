@@ -49,6 +49,12 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/media/interface/dialogue/dialogue.json",
+                "path": "assets/media/interface/dialogue",
+                "key": "dialogue"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/popups/digging/dig_popup.json",
                 "path": "assets/media/popups/digging",
                 "key": "dig_popup"
