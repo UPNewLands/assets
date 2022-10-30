@@ -52,7 +52,7 @@
 					}
 				},
 				{
-					"filename": "beta",
+					"filename": "halloween",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -183,6 +183,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:487cb25434e09ff5e3c04e744b228ffc:192cf4790fe5175df26cbad9d9613143:0d4afba611ffec51555cbf04610f8a9f$"
+		"smartupdate": "$TexturePacker:SmartUpdate:a9a304984dbb9d5bfc1b5274e938582f:d0ea03b12eebf484bb77fcaa39736d54:0d4afba611ffec51555cbf04610f8a9f$"
 	}
 }
