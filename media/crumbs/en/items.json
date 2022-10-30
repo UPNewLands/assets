@@ -32201,6 +32201,54 @@
     "cost":0,
     "member":0
   },
+  "373779":{
+    "name":"Dark Halloween Basket",
+    "type":6,
+    "cost":200,
+    "member":0
+  },
+  "373780":{
+    "name":"Rare Pumpkin Head",
+    "type":2,
+    "cost":250,
+    "member":0
+  },
+  "373781":{
+    "name":"Rare Little Jack",
+    "type":6,
+    "cost":150,
+    "member":0
+  },
+  "373782":{
+    "name":"Illuminous Ghost Costume",
+    "type":5,
+    "cost":150,
+    "member":0
+  },
+  "373783":{
+    "name":"Rare Pumpkin Antennae",
+    "type":2,
+    "cost":150,
+    "member":0
+  },
+  "373784":{
+    "name":"Rare Skeleton Costume",
+    "type":5,
+    "cost":200,
+    "member":0
+  },
+  "373785":{
+    "name":"Living Sled",
+    "type":6,
+    "cost":200,
+    "member":0
+  },
+  "373786":{
+    "name":"Vintage Snowman Head",
+    "type":2,
+    "cost":300,
+    "member":0
+  },
   "99996":{
     "name":"Community Manager Badge",
     "type":8,
